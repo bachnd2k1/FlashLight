@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">東</string>
+    <string name="DirEastNorthEast">東-東北</string>
+    <string name="DirEastSouthEast">東-東南</string>
+    <string name="DirNorth">北</string>
+    <string name="DirNorthEast">東北</string>
+    <string name="DirNorthNorthEast">北-東北</string>
+    <string name="DirNorthNorthWest">北-西北</string>
+    <string name="DirNorthwest">西北部</string>
+    <string name="DirSouth">南</string>
+    <string name="DirSouthEast">東南</string>
+    <string name="DirSouthSouthEast">南-東南</string>
+    <string name="DirSouthSouthWest">南-西南</string>
+    <string name="DirSouthWest">西-南</string>
+    <string name="DirWest">西方</string>
+    <string name="DirWestNorthWest">西-西北</string>
+    <string name="DirWestSouthWest">西-西南</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"瀏覽主頁"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"完成"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"關閉"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"開啟"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"刪除"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter 鍵"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"空白鍵"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"分享對象"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」分享"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="app_name">手電筒</string>
+    <string name="auto">默認</string>
+    <string name="cancel_anytime">隨時取消</string>
+    <string name="compass">羅盤</string>
+    <string name="data">數據</string>
+    <string name="failed_camera">無法連接到相機服務</string>
+    <string name="flashlight">手電筒</string>
+    <string name="free">自由</string>
+    <string name="get">得到</string>
+    <string name="help">救命</string>
+    <string name="home">家</string>
+    <string name="language">語言</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">每月計劃</string>
+    <string name="morse">莫爾斯</string>
+    <string name="most_popular">最受歡迎</string>
+    <string name="not_support">您的設備不支持Flash！</string>
+    <string name="numberofDegree">取向</string>
+    <string name="option">選項</string>
+    <string name="power_flashlight">強光手電筒</string>
+    <string name="power_flashlight_premium">強光手電筒</string>
+    <string name="premium">優質</string>
+    <string name="privacy">隱私</string>
+    <string name="rate">率</string>
+    <string name="restore_purchases">恢復購買</string>
+    <string name="save">保存</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"搜尋"</string>
+    <string name="setting">設置</string>
+    <string name="settings">設定值</string>
+    <string name="share">分享</string>
+    <string name="share_message">我正在使用％1 $ s。它是如此有用和免費！請嘗試：％2 $ s</string>
+    <string name="some_error">一些錯誤</string>
+    <string name="sound_of_toggle">撥動聲</string>
+    <string name="start_3_day_trial">從3天免費試用開始</string>
+    <string name="status_bar">狀態欄</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">試用期結束後，將按每月％1 $ s的價格自動續訂</string>
+    <string name="text_buy_year_content">試用期結束後，自動續訂的費用為每年％1 $ s</string>
+    <string name="text_compass">羅盤</string>
+    <string name="text_compass_normal">羅盤</string>
+    <string name="text_continue">繼續</string>
+    <string name="text_flashlight">手電筒</string>
+    <string name="text_flashlight_normal">手電筒</string>
+    <string name="text_limited_time">限時優惠以％1 $ s小時％2 $ s分鐘％3 $ s秒結束</string>
+    <string name="text_up_to_premium">升級到高級版</string>
+    <string name="text_watch_video">觀看視頻廣告，嘗試一次</string>
+    <string name="trail_3_day">3天免費試用</string>
+    <string name="version">版</string>
+    <string name="warning_request_permission">您需要申請對Camera的訪問權限才能使用手電筒</string>
+    <string name="wifi">無線上網</string>
+    <string name="yearly_plan">年度計劃</string>
+</resources>

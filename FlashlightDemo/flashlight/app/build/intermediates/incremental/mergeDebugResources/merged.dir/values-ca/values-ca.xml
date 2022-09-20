@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Est</string>
+    <string name="DirEastNorthEast">Est - nord-est</string>
+    <string name="DirEastSouthEast">Est - Sud-est</string>
+    <string name="DirNorth">Nord</string>
+    <string name="DirNorthEast">Nord-est</string>
+    <string name="DirNorthNorthEast">Nord - nord-est</string>
+    <string name="DirNorthNorthWest">Nord - Oest Nord</string>
+    <string name="DirNorthwest">Nord-oest oest</string>
+    <string name="DirSouth">Sud</string>
+    <string name="DirSouthEast">Est del sud</string>
+    <string name="DirSouthSouthEast">Sud-est</string>
+    <string name="DirSouthSouthWest">Sud-oest</string>
+    <string name="DirSouthWest">Oest - Sud</string>
+    <string name="DirWest">Oest</string>
+    <string name="DirWestNorthWest">Oest - nord-oest</string>
+    <string name="DirWestSouthWest">Oest - Sud-oest</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navega fins a la pàgina d\'inici"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navega cap amunt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Més opcions"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fet"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Mostra-ho tot"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecciona una aplicació"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESACTIVA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ACTIVA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Supr"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Retorn"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funció+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Espai"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menú+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Esborra la consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de cerca"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envia la consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Cerca per veu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Comparteix amb"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Comparteix amb <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Replega"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">Per defecte</string>
+    <string name="cancel_anytime">Cancel·la en qualsevol moment</string>
+    <string name="compass">Brúixola</string>
+    <string name="data">Dades</string>
+    <string name="failed_camera">No s\'ha pogut connectar amb el servei de càmera</string>
+    <string name="flashlight">Llanterna</string>
+    <string name="free">GRATU .T</string>
+    <string name="get">ACONSEGUIR</string>
+    <string name="help">Ajuda</string>
+    <string name="home">Inici</string>
+    <string name="language">Llenguatge</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">PLA MENSUAL</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">EL MÉS POPULAR</string>
+    <string name="not_support">El vostre dispositiu no és compatible amb Flash!</string>
+    <string name="numberofDegree">Orientació</string>
+    <string name="option">Opció</string>
+    <string name="power_flashlight">FLASHLIGHT POWER</string>
+    <string name="power_flashlight_premium">Llanterna d’energia</string>
+    <string name="premium">PREMI</string>
+    <string name="privacy">Privacitat</string>
+    <string name="rate">Valorar</string>
+    <string name="restore_purchases">Restaura les compres</string>
+    <string name="save">Desa</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cerca"</string>
+    <string name="setting">Ambientació</string>
+    <string name="settings">Configuració</string>
+    <string name="share">Compartir</string>
+    <string name="share_message">Estic utilitzant %1$s. És tan útil i GRATU !TA! Proveu-ho a: %2$s</string>
+    <string name="some_error">Algun error</string>
+    <string name="sound_of_toggle">So of Toggle</string>
+    <string name="start_3_day_trial">Comença avui amb la prova gratuïta de 3 dies</string>
+    <string name="status_bar">Barra d\'estat</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">un cop finalitzada la prova, l’automòbil es renova a %1$s per mes</string>
+    <string name="text_buy_year_content">un cop finalitzada la prova, l’automòbil es renova a %1$s facturant anualment</string>
+    <string name="text_compass">BRÚIXOLA</string>
+    <string name="text_compass_normal">Brúixola</string>
+    <string name="text_continue">CONTINUAR</string>
+    <string name="text_flashlight">FLASHLIGHT</string>
+    <string name="text_flashlight_normal">Llanterna</string>
+    <string name="text_limited_time">L’oferta de temps limitat finalitza en %1$s hores %2$s min %3$s segons</string>
+    <string name="text_up_to_premium">Actualitza a la versió Premium</string>
+    <string name="text_watch_video">Mireu l’anunci de vídeo per provar-lo una vegada</string>
+    <string name="trail_3_day">Prova gratuïta de 3 dies</string>
+    <string name="version">Versió</string>
+    <string name="warning_request_permission">Heu d\'aplicar l\'accés a la càmera per utilitzar la llanterna</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">PLA ANUAL</string>
+</resources>

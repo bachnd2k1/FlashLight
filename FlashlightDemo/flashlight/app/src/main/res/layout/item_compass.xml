@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:layout_marginStart="@dimen/margin_base"
+    android:layout_marginEnd="@dimen/margin_base"
+    android:layout_marginBottom="@dimen/margin_base"
+
+    android:gravity="bottom"
+    android:orientation="horizontal">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:background="@color/color_black"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imCompassPro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_pro_style_compass"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imIconCompassThumb"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:padding="@dimen/padding_very_small"
+            android:src="@drawable/ic_bg_compass_1"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/llItemCompassParent"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/bg_shop_item"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_small"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:orientation="vertical"
+            android:padding="@dimen/padding_very_small">
+
+            <TextView
+                android:id="@+id/tvNameCompassItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/quicksand_bold"
+                android:textColor="#666666"
+                android:textSize="16sp"
+                tools:text="Compass" />
+
+            <TextView
+                android:id="@+id/tvIdCompassItem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/quicksand"
+                android:textColor="#666666"
+                android:textSize="14sp"
+                tools:text="01" />
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imSelected"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/margin_small"
+                android:src="@drawable/ic_selected" />
+
+            <TextView
+                android:id="@+id/tvGetItemCompass"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/margin_small"
+                android:background="@drawable/bg_get_item"
+                android:fontFamily="@font/quicksand_bold"
+                android:gravity="center"
+                android:paddingStart="@dimen/padding_base"
+                android:paddingEnd="@dimen/padding_base"
+                android:text="@string/get"
+                android:textColor="@color/color_white"
+                android:textSize="12sp" />
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

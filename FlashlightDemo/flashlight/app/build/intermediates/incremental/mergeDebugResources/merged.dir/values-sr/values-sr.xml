@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Исток</string>
+    <string name="DirEastNorthEast">Исток - североисток</string>
+    <string name="DirEastSouthEast">Исток - југоисток</string>
+    <string name="DirNorth">Север</string>
+    <string name="DirNorthEast">Североисток</string>
+    <string name="DirNorthNorthEast">Север - североисток</string>
+    <string name="DirNorthNorthWest">Север - северозапад</string>
+    <string name="DirNorthwest">Западни север</string>
+    <string name="DirSouth">Југ</string>
+    <string name="DirSouthEast">Источни југ</string>
+    <string name="DirSouthSouthEast">Југ - Југоисток</string>
+    <string name="DirSouthSouthWest">Југ - југозапад</string>
+    <string name="DirSouthWest">Запад - југ</string>
+    <string name="DirWest">Запад</string>
+    <string name="DirWestNorthWest">Запад - северозапад</string>
+    <string name="DirWestSouthWest">Запад - Југозапад</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Идите на почетну"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Идите нагоре"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Још опција"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Прикажи све"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Изаберите апликацију"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ИСКЉУЧЕНО"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"УКЉУЧЕНО"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"тастер за размак"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Претражите…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Обришите упит"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Претражите упит"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Претражите"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Пошаљите упит"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Гласовна претрага"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Делите помоћу"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Делите помоћу апликације <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Скупи"</string>
+    <string name="app_name">Батеријска лампа</string>
+    <string name="auto">Уобичајено</string>
+    <string name="cancel_anytime">Откажи у било које време</string>
+    <string name="compass">Компас</string>
+    <string name="data">Подаци</string>
+    <string name="failed_camera">Није успело повезивање на услугу камере</string>
+    <string name="flashlight">Батеријска лампа</string>
+    <string name="free">БАДАВА</string>
+    <string name="get">ДОБИТИ</string>
+    <string name="help">Помоћ</string>
+    <string name="home">Кућа</string>
+    <string name="language">Језик</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">МЕСЕЧНИ ПЛАН</string>
+    <string name="morse">Морсе</string>
+    <string name="most_popular">НАЈПОПУЛАРНИЈИ</string>
+    <string name="not_support">Ваш уређај не подржава Фласх!</string>
+    <string name="numberofDegree">Оријентација</string>
+    <string name="option">Опција</string>
+    <string name="power_flashlight">СВЈЕТЛО СНАГА</string>
+    <string name="power_flashlight_premium">Повер Фласхлигхт</string>
+    <string name="premium">ПРЕМИУМ</string>
+    <string name="privacy">Приватност</string>
+    <string name="rate">Cтопа</string>
+    <string name="restore_purchases">Обнови куповине</string>
+    <string name="save">Сачувај</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Претражите"</string>
+    <string name="setting">Подешавање</string>
+    <string name="settings">Подешавања</string>
+    <string name="share">удео</string>
+    <string name="share_message">Користим% 1 $ с. То је тако корисно и БЕСПЛАТНО! Пробајте на:% 2 $ с</string>
+    <string name="some_error">Грешка</string>
+    <string name="sound_of_toggle">Соунд оф Тоггле</string>
+    <string name="start_3_day_trial">Започните данас са тродневним бесплатним пробним временом</string>
+    <string name="status_bar">Статусна трака</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">након пробног завршетка, аутоматски се обнавља у висини од% 1 $ с месечно</string>
+    <string name="text_buy_year_content">након завршетка пробног поступка, аутоматски се обнавља у износу од% 1 $ с годишње</string>
+    <string name="text_compass">КОМПАС</string>
+    <string name="text_compass_normal">Компас</string>
+    <string name="text_continue">НАСТАВИ</string>
+    <string name="text_flashlight">БАТЕРИЈСКА ЛАМПА</string>
+    <string name="text_flashlight_normal">Батеријска лампа</string>
+    <string name="text_limited_time">Ограничена временска понуда завршава за% 1 $ с сати% 2 $ с мин% 3 $ с сек</string>
+    <string name="text_up_to_premium">Надоградите на Премиум верзију</string>
+    <string name="text_watch_video">Погледајте видео оглас да бисте га испробали једном</string>
+    <string name="trail_3_day">3 дана бесплатно пробно време</string>
+    <string name="version">Верзија</string>
+    <string name="warning_request_permission">Да бисте користили Фласхлигхт, морате да примените приступ на Цамера</string>
+    <string name="wifi">Ви-фи</string>
+    <string name="yearly_plan">ГОДИШЊИ ПЛАН</string>
+</resources>

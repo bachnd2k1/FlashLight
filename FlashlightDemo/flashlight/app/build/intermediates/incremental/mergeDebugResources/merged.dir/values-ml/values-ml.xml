@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">കിഴക്ക്</string>
+    <string name="DirEastNorthEast">കിഴക്ക് - വടക്ക് കിഴക്ക്</string>
+    <string name="DirEastSouthEast">കിഴക്ക് - തെക്ക് കിഴക്ക്</string>
+    <string name="DirNorth">വടക്ക്</string>
+    <string name="DirNorthEast">നോർത്ത് ഈസ്റ്റ്</string>
+    <string name="DirNorthNorthEast">വടക്ക് - വടക്ക് കിഴക്ക്</string>
+    <string name="DirNorthNorthWest">വടക്ക് - വടക്ക് പടിഞ്ഞാറ്</string>
+    <string name="DirNorthwest">പടിഞ്ഞാറ് വടക്ക്</string>
+    <string name="DirSouth">തെക്ക്</string>
+    <string name="DirSouthEast">ഈസ്റ്റ് സൗത്ത്</string>
+    <string name="DirSouthSouthEast">തെക്ക് - തെക്ക് കിഴക്ക്</string>
+    <string name="DirSouthSouthWest">തെക്ക് - തെക്ക് പടിഞ്ഞാറ്</string>
+    <string name="DirSouthWest">പടിഞ്ഞാറ് - തെക്ക്</string>
+    <string name="DirWest">പടിഞ്ഞാറ്</string>
+    <string name="DirWestNorthWest">പടിഞ്ഞാറ് - നോർത്ത് വെസ്റ്റ്</string>
+    <string name="DirWestSouthWest">പടിഞ്ഞാറ് - തെക്ക് പടിഞ്ഞാറ്</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ഹോമിലേക്ക് പോവുക"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"മുകളിലേക്ക് പോവുക"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"കൂടുതൽ ഓപ്ഷനുകൾ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"പൂർത്തിയായി"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"എല്ലാം കാണുക"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ആപ്പ് തിരഞ്ഞെടുക്കുക"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ഓഫ്"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ഓൺ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ഇല്ലാതാക്കുക"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"ഫംഗ്ഷന്‍+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"മെറ്റ+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"സ്‌പെയ്‌സ്"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"മെനു+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"തിരയുക…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ചോദ്യം മായ്‌ക്കുക"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ചോദ്യം തിരയുക"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Search"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ചോദ്യം സമർപ്പിക്കുക"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"സംസാരത്തിലൂടെ തിരയുക"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ഇനിപ്പറയുന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> എന്നതുമായി പങ്കിടുക"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ചുരുക്കുക"</string>
+    <string name="app_name">മിന്നല്പകാശം</string>
+    <string name="auto">സ്ഥിരസ്ഥിതി</string>
+    <string name="cancel_anytime">എപ്പോൾ വേണമെങ്കിലും റദ്ദാക്കുക</string>
+    <string name="compass">കോമ്പസ്</string>
+    <string name="data">ഡാറ്റ</string>
+    <string name="failed_camera">ക്യാമറ സേവനത്തിലേക്ക് കണക്റ്റുചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു</string>
+    <string name="flashlight">മിന്നല്പകാശം</string>
+    <string name="free">സൗ ജന്യം</string>
+    <string name="get">നേടുക</string>
+    <string name="help">സഹായിക്കൂ</string>
+    <string name="home">വീട്</string>
+    <string name="language">ഭാഷ</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">പ്രതിമാസ പദ്ധതി</string>
+    <string name="morse">മോഴ്സ്</string>
+    <string name="most_popular">ഏറ്റവും പ്രശസ്തമായ</string>
+    <string name="not_support">നിങ്ങളുടെ ഉപകരണം ഫ്ലാഷിനെ പിന്തുണയ്ക്കുന്നില്ല!</string>
+    <string name="numberofDegree">ഓറിയന്റേഷൻ</string>
+    <string name="option">ഓപ്ഷൻ</string>
+    <string name="power_flashlight">പവർ ഫ്ലാഷ്ലൈറ്റ്</string>
+    <string name="power_flashlight_premium">പവർ ഫ്ലാഷ്ലൈറ്റ്</string>
+    <string name="premium">പ്രീമിയം</string>
+    <string name="privacy">സ്വകാര്യത</string>
+    <string name="rate">നിരക്ക്</string>
+    <string name="restore_purchases">വാങ്ങലുകൾ പുനഃസ്ഥാപിക്കുക</string>
+    <string name="save">സംരക്ഷിക്കുക</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Search"</string>
+    <string name="setting">ക്രമീകരിക്കുന്നു</string>
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="share">പങ്കിടുക</string>
+    <string name="share_message">ഞാൻ %1$s ഉപയോഗിക്കുന്നു. ഇത് വളരെ സഹായകരവും സ! ജന്യവുമാണ്! ഇത് പരീക്ഷിക്കുക: %2$s</string>
+    <string name="some_error">ചില പിശക്</string>
+    <string name="sound_of_toggle">ടോഗിൾ ചെയ്യുന്ന ശബ്ദം</string>
+    <string name="start_3_day_trial">3 ദിവസത്തെ സ trial ജന്യ ട്രയൽ ഉപയോഗിച്ച് ഇന്ന് ആരംഭിക്കുക</string>
+    <string name="status_bar">സ്റ്റാറ്റസ് ബാർ</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">ട്രയൽ അവസാനിച്ചതിന് ശേഷം, പ്രതിമാസം %1$s ന് ഓട്ടോ പുതുക്കുന്നു</string>
+    <string name="text_buy_year_content">ട്രയൽ അവസാനിച്ചതിന് ശേഷം, പ്രതിവർഷം %1$s ബില്ലിൽ സ്വയമേ പുതുക്കുന്നു</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">കോമ്പസ്</string>
+    <string name="text_continue">തുടരുക</string>
+    <string name="text_flashlight">മിന്നല്പകാശം</string>
+    <string name="text_flashlight_normal">മിന്നല്പകാശം</string>
+    <string name="text_limited_time">പരിമിത സമയ ഓഫർ %1$s മണിക്കൂറിൽ %2$s മിനിറ്റ്% 3 $ സെക്കൻഡിൽ അവസാനിക്കുന്നു</string>
+    <string name="text_up_to_premium">പ്രീമിയം പതിപ്പിലേക്ക് അപ്ഗ്രേഡുചെയ്യുക</string>
+    <string name="text_watch_video">ഒരു തവണ ശ്രമിക്കുന്നതിന് വീഡിയോ പരസ്യം കാണുക</string>
+    <string name="trail_3_day">3 ദിവസത്തെ സ trial ജന്യ ട്രയൽ</string>
+    <string name="version">പതിപ്പ്</string>
+    <string name="warning_request_permission">ഫ്ലാഷ്ലൈറ്റ് ഉപയോഗിക്കുന്നതിന് നിങ്ങൾ ക്യാമറയിലേക്ക് ആക്സസ്സ് പ്രയോഗിക്കേണ്ടതുണ്ട്</string>
+    <string name="wifi">വൈഫൈ</string>
+    <string name="yearly_plan">വാർഷിക പദ്ധതി</string>
+</resources>

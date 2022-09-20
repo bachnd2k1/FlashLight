@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_app_style_dark"
+    tools:context="com.flashlight.demo.activity.CompassActivity">
+
+    <RelativeLayout
+        android:id="@+id/rlAdsParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="250dp"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+
+    <ImageView
+        android:id="@+id/imCompass"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="@dimen/margin_medium_large"
+        app:layout_constraintTop_toBottomOf="@id/rlAdsParent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_compass1"/>
+
+    <ImageView
+        android:id="@+id/imOrientation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="@+id/imCompass"
+        app:layout_constraintBottom_toBottomOf="@+id/imCompass"
+        app:layout_constraintStart_toStartOf="@+id/imCompass"
+        app:layout_constraintEnd_toEndOf="@+id/imCompass"
+        android:src="@drawable/ic_needle1"/>
+
+    <ImageView
+        android:id="@+id/imMoreCompass"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/imCompass"
+        app:layout_constraintBottom_toBottomOf="@id/imCompass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_change_style_compass"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:gravity="center"
+        app:layout_constraintTop_toBottomOf="@id/imCompass"
+        android:layout_marginTop="@dimen/margin_medium_large"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_medium"
+            android:textSize="12sp"
+            android:textColor="@color/color_white"
+            tools:text="07:00"/>
+
+        <TextView
+            android:id="@+id/tvOrientation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_medium"
+            android:textSize="14sp"
+            android:textColor="@color/color_white"
+            tools:text="0&#xb0; North"/>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

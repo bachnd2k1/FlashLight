@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Схід</string>
+    <string name="DirEastNorthEast">Схід - Північний Схід</string>
+    <string name="DirEastSouthEast">Схід - Південний Схід</string>
+    <string name="DirNorth">Північ</string>
+    <string name="DirNorthEast">Північний Схід</string>
+    <string name="DirNorthNorthEast">Північ - Північний Схід</string>
+    <string name="DirNorthNorthWest">Північ - Північний Захід</string>
+    <string name="DirNorthwest">Західна північ</string>
+    <string name="DirSouth">Південь</string>
+    <string name="DirSouthEast">Східний Південь</string>
+    <string name="DirSouthSouthEast">Південь - Південний Схід</string>
+    <string name="DirSouthSouthWest">Південь - Південний Захід</string>
+    <string name="DirSouthWest">Захід - Південь</string>
+    <string name="DirWest">Захід</string>
+    <string name="DirWestNorthWest">Захід - Північний Захід</string>
+    <string name="DirWestSouthWest">Захід - Південний Захід</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на головну"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Більше опцій"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показати всі"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ЗНИЖКА"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"пробіл"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введіть пошуковий запит…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Наіслати запит"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поділитися:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поділитися через додаток <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">За замовчуванням</string>
+    <string name="cancel_anytime">Скасувати будь-коли</string>
+    <string name="compass">Компас</string>
+    <string name="data">Дані</string>
+    <string name="failed_camera">Не вдалося підключитися до послуги камери</string>
+    <string name="flashlight">Ліхтарик</string>
+    <string name="free">Безкоштовно</string>
+    <string name="get">ЗАРАЗ</string>
+    <string name="help">Довідка</string>
+    <string name="home">Головна</string>
+    <string name="language">Мову</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">МЕСЯЧНИЙ ПЛАН</string>
+    <string name="morse">Морзе</string>
+    <string name="most_popular">НАЙПОПУЛЯРНІШЕ</string>
+    <string name="not_support">Ваш пристрій не підтримує Flash!</string>
+    <string name="numberofDegree">Орієнтація</string>
+    <string name="option">Варіант</string>
+    <string name="power_flashlight">МОЖЛИВОСТІ ВЛАДИ</string>
+    <string name="power_flashlight_premium">Електричний ліхтарик</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Конфіденційність</string>
+    <string name="rate">Оцінити</string>
+    <string name="restore_purchases">Відновити покупки</string>
+    <string name="save">Зберегти</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Пошук"</string>
+    <string name="setting">Налаштування</string>
+    <string name="settings">Налаштування</string>
+    <string name="share">Поділитися</string>
+    <string name="share_message">Я використовую %1$s. Це так корисно і БЕЗКОШТОВНО! Спробуйте це за адресою: %2$s</string>
+    <string name="some_error">Якась помилка</string>
+    <string name="sound_of_toggle">Звук Toggle</string>
+    <string name="start_3_day_trial">Почніть сьогодні з 3-денної безкоштовної пробної версії</string>
+    <string name="status_bar">Рядок стану</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">після закінчення пробного періоду автоматичне поновлення на %1$s на місяць</string>
+    <string name="text_buy_year_content">після закінчення пробного періоду автоматичне поновлення на %1$s виставляється щорічно</string>
+    <string name="text_compass">КОМПАС</string>
+    <string name="text_compass_normal">Компас</string>
+    <string name="text_continue">ПРОДОДЖЕНО</string>
+    <string name="text_flashlight">ПІДЛОЖКА</string>
+    <string name="text_flashlight_normal">Ліхтарик</string>
+    <string name="text_limited_time">Пропозиція з обмеженим часом закінчується через %1$s годин %2$s min %3$s сек</string>
+    <string name="text_up_to_premium">Оновлення до версії Premium</string>
+    <string name="text_watch_video">Перегляньте відеорекламу, щоб спробувати її один раз</string>
+    <string name="trail_3_day">3-денна безкоштовна пробна версія</string>
+    <string name="version">Версія</string>
+    <string name="warning_request_permission">Щоб користуватися ліхтариком, вам потрібно застосувати доступ до камери</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">РІЧНИЙ ПЛАН</string>
+</resources>

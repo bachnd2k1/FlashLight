@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">восток</string>
+    <string name="DirEastNorthEast">Восток - Северо-Восток</string>
+    <string name="DirEastSouthEast">Восток - Юг Восток</string>
+    <string name="DirNorth">к северу</string>
+    <string name="DirNorthEast">к северо-востоку</string>
+    <string name="DirNorthNorthEast">Север - северо восток</string>
+    <string name="DirNorthNorthWest">Север - северо запад</string>
+    <string name="DirNorthwest">Северо-Запад</string>
+    <string name="DirSouth">юг</string>
+    <string name="DirSouthEast">Восток Юг</string>
+    <string name="DirSouthSouthEast">Юг - Юг Восток</string>
+    <string name="DirSouthSouthWest">Юг - Юг Запад</string>
+    <string name="DirSouthWest">Запад - Юг</string>
+    <string name="DirWest">запад</string>
+    <string name="DirWestNorthWest">Запад - Северо-Запад</string>
+    <string name="DirWestSouthWest">Запад - Юг Запад</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="app_name">Фонарик</string>
+    <string name="auto">По умолчанию</string>
+    <string name="cancel_anytime">Отменить в любое время</string>
+    <string name="compass">Компас</string>
+    <string name="data">Данные</string>
+    <string name="failed_camera">Не удалось подключиться к службе камеры</string>
+    <string name="flashlight">Фонарик</string>
+    <string name="free">СВОБОДНО</string>
+    <string name="get">ПОЛУЧИТЬ</string>
+    <string name="help">Помогите</string>
+    <string name="home">Дом</string>
+    <string name="language">язык</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">ЕЖЕМЕСЯЧНЫЙ ПЛАН</string>
+    <string name="morse">морж</string>
+    <string name="most_popular">САМЫЙ ПОПУЛЯРНЫЙ</string>
+    <string name="not_support">Ваше устройство не поддерживает Flash!</string>
+    <string name="numberofDegree">ориентация</string>
+    <string name="option">вариант</string>
+    <string name="power_flashlight">Мощность фонарика</string>
+    <string name="power_flashlight_premium">Фонарик</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Конфиденциальность</string>
+    <string name="rate">Оценить</string>
+    <string name="restore_purchases">Восстановить покупки</string>
+    <string name="save">Сохранить</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string name="setting">настройка</string>
+    <string name="settings">настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="share_message">Я использую %1$s. Это так полезно и бесплатно! Попробуйте по адресу: %2$s</string>
+    <string name="some_error">Какая-то ошибка</string>
+    <string name="sound_of_toggle">Звук Тоггла</string>
+    <string name="start_3_day_trial">Начните сегодня с 3-дневной бесплатной пробной версии</string>
+    <string name="status_bar">Статус бар</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="text_buy_month_content">после окончания пробного периода автоматическое продление на 1% в месяц</string>
+    <string name="text_buy_year_content">после окончания пробного периода авто продлевается на %1$s ежегодно</string>
+    <string name="text_compass">КОМПАС</string>
+    <string name="text_compass_normal">Компас</string>
+    <string name="text_continue">ПРОДОЛЖИТЬ</string>
+    <string name="text_flashlight">ФОНАРИК</string>
+    <string name="text_flashlight_normal">Фонарик</string>
+    <string name="text_limited_time">Предложение с ограниченным сроком действия заканчивается в %1$s часах %2$s мин %3$s сек</string>
+    <string name="text_up_to_premium">Обновление до Премиум версии</string>
+    <string name="text_watch_video">Посмотрите видеообъявление, чтобы попробовать его один раз</string>
+    <string name="trail_3_day">3-дневная бесплатная пробная версия</string>
+    <string name="version">Версия</string>
+    <string name="warning_request_permission">Вам необходимо применить доступ к камере, чтобы использовать фонарик</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="yearly_plan">ГОДОВОЙ ПЛАН</string>
+</resources>

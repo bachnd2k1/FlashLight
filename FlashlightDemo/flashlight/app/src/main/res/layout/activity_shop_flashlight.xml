@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.flashlight.demo.activity.ShopFlashlightActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/color_app_style_light"
+        app:layout_constraintBottom_toBottomOf="@id/gl1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imCloseShopFlashlight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_very_small"
+        android:background="?attr/selectableItemBackground"
+        android:padding="@dimen/padding_base"
+        android:src="@drawable/ic_close_black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:rotation="45"
+        app:layout_constraintBottom_toBottomOf="@id/gl1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+
+            android:id="@+id/imLightOn"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="-4dp"
+            android:src="@drawable/light_shop"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/imFlashlightType"
+            android:layout_width="360dp"
+            android:layout_height="270dp"
+            android:rotation="-45"
+            android:layout_marginStart="@dimen/margin_large"
+            android:layout_marginEnd="@dimen/margin_large"
+            android:layout_marginBottom="56dp"
+            android:src="@drawable/flashlight_shop_1"
+            tools:ignore="ContentDescription" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_base"
+        android:layout_marginTop="@dimen/margin_base"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/tvNameFlashType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_bold"
+            android:text="@string/text_flashlight"
+            android:textColor="@color/color_black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/tvIdType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quicksand_light"
+            android:textColor="@color/color_black"
+            android:textSize="60sp"
+            tools:text="01" />
+
+        <TextView
+            android:id="@+id/tvFree"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/color_black"
+            android:fontFamily="@font/quicksand_bold"
+            android:paddingStart="@dimen/padding_small"
+            android:paddingTop="@dimen/padding_very_small"
+            android:paddingEnd="@dimen/padding_small"
+            android:paddingBottom="@dimen/padding_very_small"
+            android:text="@string/free"
+            android:textColor="@color/color_white"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvShopFlashlight"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/color_white"
+        android:paddingTop="@dimen/padding_base"
+        app:layout_constraintBottom_toTopOf="@id/rlAdsParent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/gl1" />
+
+    <LinearLayout
+        android:id="@+id/rlAdsParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

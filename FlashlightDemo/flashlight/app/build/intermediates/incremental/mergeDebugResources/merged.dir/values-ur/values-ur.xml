@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">مشرق</string>
+    <string name="DirEastNorthEast">مشرق - شمال مشرق</string>
+    <string name="DirEastSouthEast">مشرق - جنوب مشرق</string>
+    <string name="DirNorth">شمال</string>
+    <string name="DirNorthEast">شمال مشرق</string>
+    <string name="DirNorthNorthEast">شمال - شمال مشرق</string>
+    <string name="DirNorthNorthWest">شمال - شمال مغرب</string>
+    <string name="DirNorthwest">مغربی شمال</string>
+    <string name="DirSouth">جنوب</string>
+    <string name="DirSouthEast">مشرقی جنوب</string>
+    <string name="DirSouthSouthEast">جنوب - جنوب مشرق</string>
+    <string name="DirSouthSouthWest">جنوب - جنوب مغرب</string>
+    <string name="DirSouthWest">مغرب۔ جنوب</string>
+    <string name="DirWest">مغرب</string>
+    <string name="DirWestNorthWest">مغرب - شمال مغرب</string>
+    <string name="DirWestSouthWest">مغرب - جنوب مغرب</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"گھر کی طرف نیویگیٹ کریں"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"اوپر نیویگیٹ کریں"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"مزید اختیارات"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"ہو گیا"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"سبھی دیکھیں"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ایک ایپ منتخب کریں"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"آف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"آن"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+‎"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+‎"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+‎"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+‎"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+‎"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+‎"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+‎"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"تلاش کریں…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"استفسار صاف کریں"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"تلاش کا استفسار"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"تلاش کریں"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"استفسار جمع کرائیں"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"صوتی تلاش"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"اس کے ساتھ اشتراک کریں"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> کے ساتھ اشتراک کریں"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"سکیڑیں"</string>
+    <string name="app_name">فلیش لائٹ</string>
+    <string name="auto">پہلے سے طے شدہ</string>
+    <string name="cancel_anytime">کسی بھی وقت منسوخ کریں</string>
+    <string name="compass">کمپاس</string>
+    <string name="data">ڈیٹا</string>
+    <string name="failed_camera">کیمرا سروس سے رابطہ قائم کرنے میں ناکام</string>
+    <string name="flashlight">ٹارچ</string>
+    <string name="free">مفت</string>
+    <string name="get">حاصل کریں</string>
+    <string name="help">مدد</string>
+    <string name="home">گھر</string>
+    <string name="language">زبان</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">ماہانہ منصوبہ</string>
+    <string name="morse">مورس</string>
+    <string name="most_popular">سب سے زیادہ مقبول</string>
+    <string name="not_support">آپ کا آلہ فلیش کی حمایت نہیں کرتا!</string>
+    <string name="numberofDegree">واقفیت</string>
+    <string name="option">آپشن</string>
+    <string name="power_flashlight">پاور فلیش لائٹ</string>
+    <string name="power_flashlight_premium">پاور ٹارچ</string>
+    <string name="premium">پریمیم</string>
+    <string name="privacy">رازداری</string>
+    <string name="rate">شرح</string>
+    <string name="restore_purchases">خریداریوں کو بحال کریں</string>
+    <string name="save">محفوظ کریں</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"تلاش کریں"</string>
+    <string name="setting">سیٹنگ</string>
+    <string name="settings">ترتیبات</string>
+    <string name="share">بانٹیں</string>
+    <string name="share_message">میں٪ 1 $ s استعمال کر رہا ہوں۔ یہ بہت مددگار اور مفت ہے! اسے یہاں پر آزمائیں:٪ 2 $ s</string>
+    <string name="some_error">کچھ غلطی</string>
+    <string name="sound_of_toggle">ٹوگل کی آواز</string>
+    <string name="start_3_day_trial">آج 3 دن کی مفت آزمائش کے ساتھ شروع کریں</string>
+    <string name="status_bar">اسٹیٹس بار</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="text_buy_month_content">آزمائش ختم ہونے کے بعد ، آٹو ہر ماہ٪ 1 $ s سے تجدید ہوتا ہے</string>
+    <string name="text_buy_year_content">آزمائش ختم ہونے کے بعد ، سالانہ بل 1 $ s پر آٹو کی تجدید ہوتی ہے</string>
+    <string name="text_compass">کمپاس</string>
+    <string name="text_compass_normal">کمپاس</string>
+    <string name="text_continue">جاری رہے</string>
+    <string name="text_flashlight">فلیش لائٹ</string>
+    <string name="text_flashlight_normal">ٹارچ</string>
+    <string name="text_limited_time">محدود وقت کی پیش کش٪ 1 $ s گھنٹے٪ 2 $ s منٹ٪ 3 $ s سیکنڈ میں ختم ہوجاتی ہے</string>
+    <string name="text_up_to_premium">پریمیم ورژن میں اپ گریڈ کریں</string>
+    <string name="text_watch_video">ایک بار آزمانے کیلئے ویڈیو اشتہار دیکھیں</string>
+    <string name="trail_3_day">3 دن کی مفت ٹرائل</string>
+    <string name="version">ورژن</string>
+    <string name="warning_request_permission">ٹارچ لائٹ استعمال کرنے کیلئے آپ کو کیمرہ تک رسائی کا اطلاق کرنے کی ضرورت ہے</string>
+    <string name="wifi">وائی فائی</string>
+    <string name="yearly_plan">قومی منصوبہ</string>
+</resources>

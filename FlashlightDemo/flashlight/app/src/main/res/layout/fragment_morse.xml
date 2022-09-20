@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_app_style_dark"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/titleMorse"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="@color/color_top_bar"
+            android:fontFamily="@font/quicksand_bold"
+            android:gravity="center"
+            android:text="@string/morse"
+            android:textColor="@color/color_white"
+            android:textSize="16sp"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/rlAdsParent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent" />
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="@dimen/padding_base"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvTextCode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_small"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:fontFamily="@font/quicksand_medium"
+                android:text="@string/message"
+                android:textColor="@color/color_white"
+                android:textSize="14sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/llTextMorseCode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_large"
+                android:background="@drawable/bg_text_morse"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/edTextMorse"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:digits="0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z, A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z"
+                    android:fontFamily="@font/quicksand_bold"
+                    android:hint="@string/enter_your_text"
+                    android:imeOptions="actionNext"
+                    android:inputType="text"
+                    android:minHeight="40dp"
+                    android:padding="@dimen/padding_small"
+                    android:textColor="#8A8A8A"
+                    android:textColorHint="#8A8A8A"
+                    android:textSize="14sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/tvMorseCodeTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_small"
+                android:fontFamily="@font/quicksand_bold"
+                android:text="@string/morse_code"
+                android:textColor="@color/color_white"
+                android:textSize="14sp" />
+
+            <LinearLayout
+                android:layout_gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_large"
+                android:background="@drawable/bg_text_morse"
+                android:minHeight="40dp"
+                android:orientation="vertical"
+                android:padding="@dimen/padding_base">
+
+                <LinearLayout
+                    android:id="@+id/llText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" />
+
+                <LinearLayout
+                    android:id="@+id/llMorseCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvStart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/margin_base"
+                android:background="@drawable/bg_start_convert"
+                android:enabled="false"
+                android:fontFamily="@font/quicksand_bold"
+                android:gravity="center"
+                android:minHeight="40dp"
+                android:paddingStart="@dimen/padding_base"
+                android:paddingTop="@dimen/padding_small"
+                android:paddingEnd="@dimen/padding_base"
+                android:paddingBottom="@dimen/padding_small"
+                android:text="@string/start"
+                android:textColor="@color/color_app_style_dark"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tvReset"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/margin_base"
+                android:background="@drawable/bg_reset"
+                android:fontFamily="@font/quicksand_bold"
+                android:gravity="center"
+                android:minHeight="40dp"
+                android:paddingStart="@dimen/padding_base"
+                android:paddingTop="@dimen/padding_small"
+                android:paddingEnd="@dimen/padding_base"
+                android:paddingBottom="@dimen/padding_small"
+                android:text="@string/reset"
+                android:textColor="#73757C"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

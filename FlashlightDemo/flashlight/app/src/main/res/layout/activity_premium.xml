@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/imPoster"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/poster"
+        app:layout_constraintDimensionRatio="540:369"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvPremium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_base"
+        android:background="@drawable/bg_title_premium"
+        android:fontFamily="@font/roboto_bold"
+        android:paddingStart="@dimen/padding_small"
+        android:paddingTop="@dimen/padding_very_small"
+        android:paddingEnd="@dimen/padding_small"
+        android:paddingBottom="@dimen/padding_very_small"
+        android:text="@string/premium"
+        android:textColor="@color/color_white"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_small"
+        android:text="@string/power_flashlight_premium"
+        android:textColor="@color/color_white"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@id/tvPremium"
+        app:layout_constraintTop_toBottomOf="@id/tvPremium" />
+
+    <ImageView
+        android:id="@+id/imClosePremium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_small"
+        android:background="?attr/selectableItemBackground"
+        android:padding="@dimen/padding_small"
+        android:src="@drawable/ic_close_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imPoster">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color_app_style_dark"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imPoster">
+
+            <TextView
+                android:id="@+id/tvNameEvent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_base"
+                android:fontFamily="@font/roboto_light"
+                android:text="Valentine Day"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tvLimitedTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_very_small"
+                android:fontFamily="@font/roboto_medium"
+                android:text="@string/text_limited_time"
+                android:textColor="@color/color_white"
+                android:textSize="13sp" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_base"
+                android:layout_marginTop="@dimen/margin_large"
+                android:layout_marginEnd="@dimen/margin_base">
+
+                <LinearLayout
+                    android:id="@+id/llMonthly"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_medium"
+                    android:background="@drawable/bg_buy_item_selected"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="@dimen/padding_base"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/tvMonthPackage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/quicksand_bold"
+                        android:text="@string/monthly_plan"
+                        android:textColor="#676574" />
+
+                    <TextView
+                        android:id="@+id/tvMonthTrial"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_very_small"
+                        android:fontFamily="@font/roboto_black"
+                        android:text="@string/start_3_day_trial"
+                        android:textColor="#676574"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/tvMonthContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_very_small"
+                        android:fontFamily="@font/roboto_medium"
+                        android:text="@string/text_buy_month_content"
+                        android:textColor="#676574"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvMostPopular"
+                    android:layout_width="wrap_content"
+                    android:layout_height="24dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="@drawable/bg_most_popular"
+                    android:fontFamily="@font/quicksand_bold"
+                    android:gravity="center"
+                    android:paddingStart="@dimen/padding_small"
+                    android:paddingEnd="@dimen/padding_small"
+                    android:text="@string/most_popular"
+                    android:textColor="@color/color_white"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <!--            <TextView-->
+                <!--                android:layout_width="wrap_content"-->
+                <!--                android:layout_height="wrap_content"-->
+                <!--                app:layout_constraintTop_toTopOf="@id/llMonthly"-->
+                <!--                app:layout_constraintStart_toStartOf="@id/llMonthly"-->
+                <!--                android:text="50%"-->
+                <!--                android:rotation="-45"-->
+                <!--                android:paddingStart="@dimen/padding_small"-->
+                <!--                android:paddingEnd="@dimen/padding_small"-->
+                <!--                android:gravity="center"-->
+                <!--                android:background="@drawable/bg_most_popular"/>-->
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_base"
+                android:layout_marginTop="@dimen/margin_base"
+                android:layout_marginEnd="@dimen/margin_base">
+
+                <LinearLayout
+                    android:id="@+id/llYearly"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="@dimen/padding_base"
+                    android:background="@drawable/bg_buy_item"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <TextView
+                        android:id="@+id/tvYearPackage"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/quicksand_bold"
+                        android:text="@string/yearly_plan"
+                        android:textColor="#9D9D9D" />
+
+                    <TextView
+                        android:id="@+id/tvYearTrial"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_very_small"
+                        android:fontFamily="@font/roboto_black"
+                        android:text="@string/trail_3_day"
+                        android:textColor="#9D9D9D"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/tvYearContent"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/margin_very_small"
+                        android:fontFamily="@font/roboto_medium"
+                        android:text="@string/text_buy_year_content"
+                        android:textColor="#9D9D9D"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_base"
+                android:fontFamily="@font/roboto_medium"
+                android:text="@string/cancel_anytime"
+                android:textColor="#93929C"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tvContinue"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/margin_base"
+                android:background="@drawable/bg_continue"
+                android:fontFamily="@font/roboto_bold"
+                android:gravity="center"
+                android:padding="@dimen/padding_base"
+                android:text="@string/text_continue"
+                android:textColor="@color/color_white"
+                android:textSize="16sp" />
+
+            <LinearLayout
+                android:id="@+id/llRestore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_very_small"
+                android:gravity="center">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_update"
+                    />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/restore_purchases"
+                    android:layout_marginStart="@dimen/margin_small"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

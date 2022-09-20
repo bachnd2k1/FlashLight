@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Doğu</string>
+    <string name="DirEastNorthEast">Doğu - Kuzey Doğu</string>
+    <string name="DirEastSouthEast">Doğu - Güney Doğu</string>
+    <string name="DirNorth">Kuzeyinde</string>
+    <string name="DirNorthEast">Kuzey Doğu</string>
+    <string name="DirNorthNorthEast">Kuzey - Kuzey Doğu</string>
+    <string name="DirNorthNorthWest">Kuzey Kuzey Batı</string>
+    <string name="DirNorthwest">Batı kuzey</string>
+    <string name="DirSouth">güney</string>
+    <string name="DirSouthEast">Doğu Güney</string>
+    <string name="DirSouthSouthEast">Güney - Güney Doğu</string>
+    <string name="DirSouthSouthWest">Güney - Güney Batı</string>
+    <string name="DirSouthWest">Güney Batı</string>
+    <string name="DirWest">Batı</string>
+    <string name="DirWestNorthWest">Batı - Kuzey Batı</string>
+    <string name="DirWestSouthWest">Batı - Güney Batı</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eve gidiş yolunu göster"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Yukarı git"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Diğer seçenekler"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Bitti"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tümünü göster"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Bir uygulama seçin"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KAPAT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AÇ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"sil"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Üst Karakter+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"boşluk"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menü+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ara…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sorguyu temizle"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Arama sorgusu"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ara"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Sorguyu gönder"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sesli arama"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Şununla paylaş:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ile paylaş"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Daralt"</string>
+    <string name="app_name">El feneri</string>
+    <string name="auto">Varsayılan</string>
+    <string name="cancel_anytime">İstediğiniz Zaman İptal Edin</string>
+    <string name="compass">Pusula</string>
+    <string name="data">Veri</string>
+    <string name="failed_camera">Kamera hizmetine bağlanılamadı</string>
+    <string name="flashlight">El feneri</string>
+    <string name="free">ÜCRETSİZ</string>
+    <string name="get">ALMAK</string>
+    <string name="help">Yardım</string>
+    <string name="home">Ev</string>
+    <string name="language">Dil</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">AYLIK PLAN</string>
+    <string name="morse">Mors</string>
+    <string name="most_popular">EN POPÜLER</string>
+    <string name="not_support">Cihazınız Flash\'ı desteklemiyor!</string>
+    <string name="numberofDegree">Oryantasyon</string>
+    <string name="option">seçenek</string>
+    <string name="power_flashlight">GÜÇ AKIŞKANLIĞI</string>
+    <string name="power_flashlight_premium">Güç Feneri</string>
+    <string name="premium">ÖDÜL</string>
+    <string name="privacy">Gizlilik</string>
+    <string name="rate">Puan ver</string>
+    <string name="restore_purchases">Satın Alma İşlemlerini Geri Yükle</string>
+    <string name="save">Kaydet</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ara"</string>
+    <string name="setting">Ayar</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="share_message"> %1$s kullanıyorum. Çok yararlı ve ücretsiz! Deneyin: %2$s</string>
+    <string name="some_error">Bazı hatalar</string>
+    <string name="sound_of_toggle">Geçiş Sesi</string>
+    <string name="start_3_day_trial">Bugün 3 günlük ücretsiz deneme sürümüyle başlayın</string>
+    <string name="status_bar">Durum çubuğu</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">deneme bittikten sonra, otomatik olarak ayda %1$s oranında yenilenir</string>
+    <string name="text_buy_year_content">deneme bittikten sonra, otomatik olarak yıllık %1$s faturalandırılır</string>
+    <string name="text_compass">PUSULA</string>
+    <string name="text_compass_normal">Pusula</string>
+    <string name="text_continue">DEVAM ET</string>
+    <string name="text_flashlight">EL FENERİ</string>
+    <string name="text_flashlight_normal">El feneri</string>
+    <string name="text_limited_time">Sınırlı süreli teklif %1$s saat içinde bitiyor %2$s dk %3$s saniye</string>
+    <string name="text_up_to_premium">Premium Sürüme Yükselt</string>
+    <string name="text_watch_video">Bir kez denemek için video reklamı izleyin</string>
+    <string name="trail_3_day">3 günlük ücretsiz deneme</string>
+    <string name="version">versiyon</string>
+    <string name="warning_request_permission">El Fenerini kullanmak için Kameraya erişim uygulamanız gerekiyor</string>
+    <string name="wifi">kablosuz internet</string>
+    <string name="yearly_plan">YILLIK PLAN</string>
+</resources>

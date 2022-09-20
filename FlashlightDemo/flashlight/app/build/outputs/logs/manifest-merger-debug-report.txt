@@ -1,0 +1,406 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\cfb37c958537b92a674d631ff851d34c\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d34d16471c85276426efd441c0d2de28\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.rey5137:material:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f39994c146be93adc4300cdef5f4f73a\jetified-material-1.2.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15722acd2da845eae1f117a96fec65d7\jetified-bubbleseekbar-3.20\AndroidManifest.xml:2:1-13:12
+MERGED from [com.airbnb.android:lottie:3.6.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b5ab9276e1ab46771945c5c0f4caf348\jetified-lottie-3.6.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\72b0740336ed1d9e5943f2d309588696\jetified-android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a739eb23ebd38b13fc03eb27d7b33099\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\814fd757d9049ebe3415bb2b9e86e798\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\09a407d8de826dda8e7ddf6c052ad748\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8f403e158fe7a45c4fd40edc82059ebc\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\576307cf95fddd4615c6e80f922141d8\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fc4efe7b020123e19c2f54a0753d26a3\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4231120254f7fea1a1ea7ff3f68fbbe7\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a65d91154d06b304b6d9e2dc03c7c30e\jetified-base-rvadapter-3.0.3\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\243fe808177228cd8e84b28af19604d3\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\85bc623ee86444d31fdc7e34953b51bd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\2b56c842751f6bd7588d3c8754ad268c\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8c742bfb83d421b2a24d0035d5c98734\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d64ea8ae8a85026413e6317c7632ec21\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\c0b428c0776ceb62c5d937de9b09a5c2\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\92cb77bc790e65a4267becbd4a06583f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\e62e07227afad1227b194871032dffd4\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\22705af0457dabc80c741811aec37389\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bb95b1b0a4b85439fe6e1b9dd7225277\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f1ac3a2c3d565cf9fb9cb967e0f81745\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\9e9f8549c2c6581b75935a28173f3877\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fab5acbaf66d7815ac37112b020bcb22\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5b4e3da8f9169a46cbd333c0a45a22cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5496f112d8c8e92b0d3d7fb56547feb2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8b16922481e28e44205e1cb2754918c1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bd366366af7649bf4d57fc8aa7060c6b\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\34ede43ef32ddedda38809b7269ca04b\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\03bbad866cc8e91794a5948a41aa01bb\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\604a1100bdcead5e36ac10204b699ce9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\69b7100d4067579be2942a1993c7991c\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15a7248a5859303ad9c4a543739b30a3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4a9a1608722e54722b81eb4c2895b828\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\7da256f0e6070df1e0341f56150226a9\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fbfb3f0663e1a347affc36ce075d9724\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d90be037915e12cb9c9ed00786f209f9\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\ab3f60d957ea7c7adb40b6516ba604c5\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f0714d58a97e6faa477279276c76a0ca\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b1f7703fd255ab7b33e3aa6700609618\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\14635cff5402459147e0832342904011\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\3a40c75080ad4cdc8e82a21f7b13e2b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\732c1e97379ca517433d937c7b123f9b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f310759cd59a907eba8ade21cc39e7b5\jetified-rxandroid-2.1.1\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\46fda0d1f838390b0b0ea29c94bda7ee\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+	package
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:1-128:12
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:6:5-11:40
+	android:largeScreens
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:8:9-36
+	android:smallScreens
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:9:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:11:9-37
+	android:anyDensity
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:7:9-34
+uses-permission#android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:12:22-86
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:13:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:14:5-90
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:14:22-87
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:17:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:19:19-57
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:25:5-78
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:26:22-76
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:27:5-70
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:27:19-67
+application
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:30:5-126:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\cfb37c958537b92a674d631ff851d34c\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\cfb37c958537b92a674d631ff851d34c\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d34d16471c85276426efd441c0d2de28\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d34d16471c85276426efd441c0d2de28\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15722acd2da845eae1f117a96fec65d7\jetified-bubbleseekbar-3.20\AndroidManifest.xml:11:5-20
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15722acd2da845eae1f117a96fec65d7\jetified-bubbleseekbar-3.20\AndroidManifest.xml:11:5-20
+MERGED from [com.airbnb.android:lottie:3.6.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b5ab9276e1ab46771945c5c0f4caf348\jetified-lottie-3.6.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.6.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b5ab9276e1ab46771945c5c0f4caf348\jetified-lottie-3.6.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\814fd757d9049ebe3415bb2b9e86e798\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\814fd757d9049ebe3415bb2b9e86e798\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8f403e158fe7a45c4fd40edc82059ebc\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8f403e158fe7a45c4fd40edc82059ebc\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fbfb3f0663e1a347affc36ce075d9724\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fbfb3f0663e1a347affc36ce075d9724\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\ab3f60d957ea7c7adb40b6516ba604c5\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\ab3f60d957ea7c7adb40b6516ba604c5\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:12:5-22:19
+	android:screenOrientation
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:38:9-45
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:39:9-35
+	android:label
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:35:9-41
+	android:launchMode
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:36:9-40
+	android:hardwareAccelerated
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:33:9-43
+	tools:ignore
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:42:9-48
+	android:roundIcon
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:37:9-48
+	android:icon
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:34:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:32:9-36
+	android:theme
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:41:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:40:9-44
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:31:9-59
+activity#com.flashlight.demo.activity.ShopCompassActivity
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:50:9-85
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:50:19-82
+activity#com.flashlight.demo.activity.ShopFlashlightActivity
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:51:9-88
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:51:19-85
+activity#com.flashlight.demo.activity.CompassActivity
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:52:9-54:47
+	android:launchMode
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:53:13-72
+activity#com.flashlight.demo.activity.HomeActivity
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:55:9-59:57
+	android:screenOrientation
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:58:13-49
+	android:launchMode
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:57:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:59:13-55
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:56:13-69
+activity#com.flashlight.demo.activity.SplashActivity
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:60:9-67:20
+	android:exported
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:60:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:62:13-66:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:65:17-77
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:65:27-74
+receiver#com.flashlight.demo.receiver.ConnectionReceiver
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:69:9-76:20
+	android:enabled
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:71:13-35
+	android:exported
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:70:13-75
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:73:13-75:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:74:17-79
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:74:25-76
+service#com.flashlight.demo.service.NotificationIntentService
+ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:100:9-106:44
+	android:enabled
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:102:13-35
+	android:exported
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:103:13-36
+	android:permission
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:104:13-69
+	android:persistent
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:105:13-38
+	android:stopWithTask
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:106:13-41
+	android:name
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:101:13-81
+uses-sdk
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\cfb37c958537b92a674d631ff851d34c\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\cfb37c958537b92a674d631ff851d34c\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d34d16471c85276426efd441c0d2de28\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d34d16471c85276426efd441c0d2de28\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.rey5137:material:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f39994c146be93adc4300cdef5f4f73a\jetified-material-1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.rey5137:material:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f39994c146be93adc4300cdef5f4f73a\jetified-material-1.2.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15722acd2da845eae1f117a96fec65d7\jetified-bubbleseekbar-3.20\AndroidManifest.xml:7:5-9:41
+MERGED from [com.xw.repo:bubbleseekbar:3.20] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15722acd2da845eae1f117a96fec65d7\jetified-bubbleseekbar-3.20\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.6.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b5ab9276e1ab46771945c5c0f4caf348\jetified-lottie-3.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.6.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b5ab9276e1ab46771945c5c0f4caf348\jetified-lottie-3.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\72b0740336ed1d9e5943f2d309588696\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\72b0740336ed1d9e5943f2d309588696\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a739eb23ebd38b13fc03eb27d7b33099\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a739eb23ebd38b13fc03eb27d7b33099\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\814fd757d9049ebe3415bb2b9e86e798\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\814fd757d9049ebe3415bb2b9e86e798\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\09a407d8de826dda8e7ddf6c052ad748\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\09a407d8de826dda8e7ddf6c052ad748\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8f403e158fe7a45c4fd40edc82059ebc\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8f403e158fe7a45c4fd40edc82059ebc\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\576307cf95fddd4615c6e80f922141d8\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\576307cf95fddd4615c6e80f922141d8\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fc4efe7b020123e19c2f54a0753d26a3\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fc4efe7b020123e19c2f54a0753d26a3\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4231120254f7fea1a1ea7ff3f68fbbe7\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4231120254f7fea1a1ea7ff3f68fbbe7\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a65d91154d06b304b6d9e2dc03c7c30e\jetified-base-rvadapter-3.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:base-rvadapter:3.0.3] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\a65d91154d06b304b6d9e2dc03c7c30e\jetified-base-rvadapter-3.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\243fe808177228cd8e84b28af19604d3\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\243fe808177228cd8e84b28af19604d3\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\85bc623ee86444d31fdc7e34953b51bd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\85bc623ee86444d31fdc7e34953b51bd\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\2b56c842751f6bd7588d3c8754ad268c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\2b56c842751f6bd7588d3c8754ad268c\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8c742bfb83d421b2a24d0035d5c98734\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8c742bfb83d421b2a24d0035d5c98734\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d64ea8ae8a85026413e6317c7632ec21\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d64ea8ae8a85026413e6317c7632ec21\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\c0b428c0776ceb62c5d937de9b09a5c2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\c0b428c0776ceb62c5d937de9b09a5c2\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\92cb77bc790e65a4267becbd4a06583f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\92cb77bc790e65a4267becbd4a06583f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\e62e07227afad1227b194871032dffd4\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\e62e07227afad1227b194871032dffd4\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\22705af0457dabc80c741811aec37389\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\22705af0457dabc80c741811aec37389\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bb95b1b0a4b85439fe6e1b9dd7225277\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bb95b1b0a4b85439fe6e1b9dd7225277\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f1ac3a2c3d565cf9fb9cb967e0f81745\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f1ac3a2c3d565cf9fb9cb967e0f81745\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\9e9f8549c2c6581b75935a28173f3877\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\9e9f8549c2c6581b75935a28173f3877\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fab5acbaf66d7815ac37112b020bcb22\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fab5acbaf66d7815ac37112b020bcb22\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5b4e3da8f9169a46cbd333c0a45a22cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5b4e3da8f9169a46cbd333c0a45a22cb\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5496f112d8c8e92b0d3d7fb56547feb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\5496f112d8c8e92b0d3d7fb56547feb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8b16922481e28e44205e1cb2754918c1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\8b16922481e28e44205e1cb2754918c1\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bd366366af7649bf4d57fc8aa7060c6b\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\bd366366af7649bf4d57fc8aa7060c6b\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\34ede43ef32ddedda38809b7269ca04b\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\34ede43ef32ddedda38809b7269ca04b\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\03bbad866cc8e91794a5948a41aa01bb\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\03bbad866cc8e91794a5948a41aa01bb\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\604a1100bdcead5e36ac10204b699ce9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\604a1100bdcead5e36ac10204b699ce9\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\69b7100d4067579be2942a1993c7991c\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\69b7100d4067579be2942a1993c7991c\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15a7248a5859303ad9c4a543739b30a3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\15a7248a5859303ad9c4a543739b30a3\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4a9a1608722e54722b81eb4c2895b828\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\4a9a1608722e54722b81eb4c2895b828\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\7da256f0e6070df1e0341f56150226a9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\7da256f0e6070df1e0341f56150226a9\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fbfb3f0663e1a347affc36ce075d9724\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\fbfb3f0663e1a347affc36ce075d9724\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d90be037915e12cb9c9ed00786f209f9\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d90be037915e12cb9c9ed00786f209f9\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\ab3f60d957ea7c7adb40b6516ba604c5\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\ab3f60d957ea7c7adb40b6516ba604c5\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f0714d58a97e6faa477279276c76a0ca\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f0714d58a97e6faa477279276c76a0ca\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b1f7703fd255ab7b33e3aa6700609618\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\b1f7703fd255ab7b33e3aa6700609618\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\14635cff5402459147e0832342904011\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\14635cff5402459147e0832342904011\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\3a40c75080ad4cdc8e82a21f7b13e2b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\3a40c75080ad4cdc8e82a21f7b13e2b5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\732c1e97379ca517433d937c7b123f9b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\732c1e97379ca517433d937c7b123f9b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f310759cd59a907eba8ade21cc39e7b5\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\f310759cd59a907eba8ade21cc39e7b5\jetified-rxandroid-2.1.1\AndroidManifest.xml:18:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\46fda0d1f838390b0b0ea29c94bda7ee\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\46fda0d1f838390b0b0ea29c94bda7ee\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+	android:exported
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78

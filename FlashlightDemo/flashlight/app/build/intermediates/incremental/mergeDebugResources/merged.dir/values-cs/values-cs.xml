@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Východní</string>
+    <string name="DirEastNorthEast">Východ - severovýchod</string>
+    <string name="DirEastSouthEast">Východ - jihovýchod</string>
+    <string name="DirNorth">Severní</string>
+    <string name="DirNorthEast">Severovýchod</string>
+    <string name="DirNorthNorthEast">Sever - Severovýchod</string>
+    <string name="DirNorthNorthWest">Sever - Severozápad</string>
+    <string name="DirNorthwest">Na západ na sever</string>
+    <string name="DirSouth">Jižní</string>
+    <string name="DirSouthEast">Východní jih</string>
+    <string name="DirSouthSouthEast">Jihovýchod</string>
+    <string name="DirSouthSouthWest">Jih - Jihozápad</string>
+    <string name="DirSouthWest">Západ - jih</string>
+    <string name="DirWest">Západ</string>
+    <string name="DirWestNorthWest">Západ - Severozápad</string>
+    <string name="DirWestSouthWest">West - South West</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Další možnosti"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VYP"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ZAP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"mezerník"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Vyhledat…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Dotaz pro vyhledávání"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Sdílet s"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Sdílet s aplikací <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sbalit"</string>
+    <string name="app_name">Svítilna</string>
+    <string name="auto">Výchozí</string>
+    <string name="cancel_anytime">Zrušit kdykoli</string>
+    <string name="compass">Kompas</string>
+    <string name="data">Data</string>
+    <string name="failed_camera">Nepodařilo se připojit ke službě Camera</string>
+    <string name="flashlight">Svítilna</string>
+    <string name="free">BEZPLATNÝ</string>
+    <string name="get">DOSTAT</string>
+    <string name="help">Pomoc</string>
+    <string name="home">Domov</string>
+    <string name="language">Jazyk</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">MĚSÍČNÍ PLÁN</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">NEJOBLÍBENĚJŠÍ</string>
+    <string name="not_support">Vaše zařízení nepodporuje Flash!</string>
+    <string name="numberofDegree">Orientace</string>
+    <string name="option">Volba</string>
+    <string name="power_flashlight">POWER FLASHLIGHT</string>
+    <string name="power_flashlight_premium">Napájecí svítilna</string>
+    <string name="premium">POJISTNÉ</string>
+    <string name="privacy">Soukromí</string>
+    <string name="rate">Rychlost</string>
+    <string name="restore_purchases">Obnovit nákupy</string>
+    <string name="save">Uložit</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Hledat"</string>
+    <string name="setting">Nastavení</string>
+    <string name="settings">Nastavení</string>
+    <string name="share">podíl</string>
+    <string name="share_message">Používám %1$s. Je to tak užitečné a ZDARMA! Zkuste to na: %2$s</string>
+    <string name="some_error">Nějaká chyba</string>
+    <string name="sound_of_toggle">Zvuk přepínání</string>
+    <string name="start_3_day_trial">Začněte dnes s 3denní bezplatnou zkušební verzí</string>
+    <string name="status_bar">Stavový řádek</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">po skončení zkušebního období se automaticky obnovuje na %1$s za měsíc</string>
+    <string name="text_buy_year_content">po skončení zkušebního období se automaticky obnovuje roční %1$s</string>
+    <string name="text_compass">KOMPAS</string>
+    <string name="text_compass_normal">Kompas</string>
+    <string name="text_continue">POKRAČOVAT</string>
+    <string name="text_flashlight">SVÍTILNA</string>
+    <string name="text_flashlight_normal">Svítilna</string>
+    <string name="text_limited_time">Časově omezená nabídka končí za %1$s hodin %2$s min %3$s s</string>
+    <string name="text_up_to_premium">Upgradujte na prémiovou verzi</string>
+    <string name="text_watch_video">Podívejte se na videoreklamu a zkuste ji jednou</string>
+    <string name="trail_3_day">3 denní zkušební verze zdarma</string>
+    <string name="version">Verze</string>
+    <string name="warning_request_permission">Chcete-li použít baterku, musíte použít přístup k fotoaparátu</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">ROČNÍ PLÁN</string>
+</resources>

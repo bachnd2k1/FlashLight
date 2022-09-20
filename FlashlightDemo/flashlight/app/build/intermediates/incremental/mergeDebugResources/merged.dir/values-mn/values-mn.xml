@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Зүүн</string>
+    <string name="DirEastNorthEast">Зүүн - Зүүн хойд</string>
+    <string name="DirEastSouthEast">Зүүн - Зүүн өмнөд</string>
+    <string name="DirNorth">Хойд</string>
+    <string name="DirNorthEast">Зүүн хойд</string>
+    <string name="DirNorthNorthEast">Хойд - Зүүн хойд</string>
+    <string name="DirNorthNorthWest">Хойд - Баруун хойд</string>
+    <string name="DirNorthwest">Баруун хойд</string>
+    <string name="DirSouth">Өмнөд</string>
+    <string name="DirSouthEast">Зүүн өмнөд</string>
+    <string name="DirSouthSouthEast">Өмнөд - Зүүн өмнөд</string>
+    <string name="DirSouthSouthWest">Өмнөд - Баруун өмнөд</string>
+    <string name="DirSouthWest">Баруун - Өмнөд</string>
+    <string name="DirWest">Баруун</string>
+    <string name="DirWestNorthWest">Баруун - Баруун хойд</string>
+    <string name="DirWestSouthWest">Баруун - Өмнөд Баруун</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Нүүр хуудас уруу шилжих"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Дээш шилжих"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Бусад сонголт"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Болсон"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Бүгдийг харах"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Аппыг сонгох"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ИДЭВХГҮЙ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ИДЭВХТЭЙ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"устгах"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"оруулах"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Функц+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Мета+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Шифт+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"зай"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Цэс+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Хайх…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Асуулга арилгах"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Хайх асуулга"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Хайх"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Асуулга илгээх"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Дуут хайлт"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Дараахтай хуваалцах"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-тай хуваалцах"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Буулгах"</string>
+    <string name="app_name">Гэрэл гэрэл</string>
+    <string name="auto">Үндсэн</string>
+    <string name="cancel_anytime">Хэзээ ч цуцал</string>
+    <string name="compass">Луужин</string>
+    <string name="data">Мэдээлэл</string>
+    <string name="failed_camera">Камер үйлчилгээ рүү холбогдож чадсангүй</string>
+    <string name="flashlight">Гар чийдэн</string>
+    <string name="free">ҮНЭГҮЙ</string>
+    <string name="get">ОРУУЛАХ</string>
+    <string name="help">Туслаач</string>
+    <string name="home">Нүүр хуудас</string>
+    <string name="language">Хэл</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">САРЫН ТӨЛӨВЛӨГӨӨ</string>
+    <string name="morse">Морзе</string>
+    <string name="most_popular">ХАМГИЙН АЛДАРТАЙ</string>
+    <string name="not_support">Таны төхөөрөмж Flash дэмждэггүй!</string>
+    <string name="numberofDegree">Чиглэл</string>
+    <string name="option">Сонголт</string>
+    <string name="power_flashlight">Хүч чадлыг гэрэлтүүлэх</string>
+    <string name="power_flashlight_premium">Гэрлийн чийдэн</string>
+    <string name="premium">ДЭЭД ЗЭРГИЙН</string>
+    <string name="privacy">Нууцлал</string>
+    <string name="rate">Үнэлгээ өгөх</string>
+    <string name="restore_purchases">Худалдан авалт нөхөн сэргээх</string>
+    <string name="save">Хадгалах</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Хайх"</string>
+    <string name="setting">Тохируулж байна</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="share">Хуваалцах</string>
+    <string name="share_message">Би %1$s ашиглаж байна. Энэ нь маш их тустай бөгөөд ҮНЭГҮЙ юм! Үүнийг туршаад үзээрэй: %2$s</string>
+    <string name="some_error">Алдаа байна</string>
+    <string name="sound_of_toggle">Toggle дуу</string>
+    <string name="start_3_day_trial">Өнөөдөр 3 өдрийн үнэгүй туршилтаар эхэлнэ</string>
+    <string name="status_bar">Статусын хэсэг</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">Туршилт дууссаны дараа сард %1$s-ийн авто шинэчлэлтийг шинэчилнэ</string>
+    <string name="text_buy_year_content">туршилтын хугацаа дууссаны дараа жилийн %1$s тооцоогоор автоматаар шинэчлэгддэг</string>
+    <string name="text_compass">КОМПАС</string>
+    <string name="text_compass_normal">Луужин</string>
+    <string name="text_continue">ХОЛБОО</string>
+    <string name="text_flashlight">ГЭРЭЛТЭЙ</string>
+    <string name="text_flashlight_normal">Гар чийдэн</string>
+    <string name="text_limited_time">Хязгаарлагдмал хугацааны санал %1$s цагт %2$s мин %3$s секундын дараа дуусна</string>
+    <string name="text_up_to_premium">Дээд зэрэглэлийн хувилбар болгож шинэчилнэ үү</string>
+    <string name="text_watch_video">Видео сурталчилгааг нэг удаа үзэж үзээрэй</string>
+    <string name="trail_3_day">3 өдрийн үнэгүй туршилт</string>
+    <string name="version">Хувилбар</string>
+    <string name="warning_request_permission">Гар чийдэнг ашиглахын тулд та Камерт нэвтрэх эрх олгох хэрэгтэй</string>
+    <string name="wifi">Wifi үйлчилгээ</string>
+    <string name="yearly_plan">ЖИЛИЙН ТӨЛӨВЛӨГӨӨ</string>
+</resources>

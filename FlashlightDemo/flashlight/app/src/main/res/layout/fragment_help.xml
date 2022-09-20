@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/rlAdsParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_base"
+        android:orientation="vertical"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/sosAnimation"
+            android:layout_width="240dp"
+            android:layout_height="240dp"
+            app:lottie_autoPlay="false"
+            app:lottie_loop="true"
+            app:lottie_rawRes="@raw/sos"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+        <TextView
+            android:id="@+id/tvSos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SOS"
+            app:layout_constraintTop_toTopOf="@id/sosAnimation"
+            app:layout_constraintBottom_toBottomOf="@id/sosAnimation"
+            app:layout_constraintStart_toStartOf="@id/sosAnimation"
+            app:layout_constraintEnd_toEndOf="@id/sosAnimation"
+            android:fontFamily="@font/quicksand_bold"
+            android:textSize="40sp"
+            android:padding="@dimen/padding_base"
+            android:textColor="@color/color_white"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/llViewMorseCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_text_morse"
+        android:padding="@dimen/padding_base"
+        android:layout_margin="@dimen/margin_base"
+        android:visibility="invisible"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/llText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"/>
+
+        <LinearLayout
+            android:id="@+id/llMorseCode"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"/>
+
+    </LinearLayout>
+
+</LinearLayout>

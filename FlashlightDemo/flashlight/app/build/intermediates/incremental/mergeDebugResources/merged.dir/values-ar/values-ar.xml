@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">الشرق</string>
+    <string name="DirEastNorthEast">الشرق - الشمال الشرقي</string>
+    <string name="DirEastSouthEast">الشرق - الجنوب الشرقي</string>
+    <string name="DirNorth">شمال</string>
+    <string name="DirNorthEast">شمال شرق</string>
+    <string name="DirNorthNorthEast">الشمال - الشمال الشرقي</string>
+    <string name="DirNorthNorthWest">الشمال - الشمال الغربي</string>
+    <string name="DirNorthwest">الشمالي الغربي</string>
+    <string name="DirSouth">جنوب</string>
+    <string name="DirSouthEast">الجنوب الشرقي</string>
+    <string name="DirSouthSouthEast">جنوب - جنوب شرق</string>
+    <string name="DirSouthSouthWest">جنوب - جنوب غرب</string>
+    <string name="DirSouthWest">الغربي الجنوب</string>
+    <string name="DirWest">غرب</string>
+    <string name="DirWestNorthWest">الغرب - الشمال الغربي</string>
+    <string name="DirWestSouthWest">الغرب - الجنوب الغربي</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"التوجه إلى المنزل"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"خيارات أكثر"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"تم"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"تفعيل"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"حذف"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"فضاء"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"القائمة+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"طلب بحث"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"البحث"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"بحث صوتي"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"مشاركة مع <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="app_name">محرر الصور</string>
+    <string name="auto">إفتراضي</string>
+    <string name="cancel_anytime">الغاء في اي وقت</string>
+    <string name="compass">بوصلة</string>
+    <string name="data">البيانات</string>
+    <string name="failed_camera">أخفق الاتصال بخدمة الكاميرا</string>
+    <string name="flashlight">مصباح يدوي</string>
+    <string name="free">مجانا</string>
+    <string name="get">احصل على</string>
+    <string name="help">مساعدة</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="language">لغة</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">خطة شهرية</string>
+    <string name="morse">مورس</string>
+    <string name="most_popular">الأكثر شعبية</string>
+    <string name="not_support">جهازك لا يدعم فلاش!</string>
+    <string name="numberofDegree">اتجاه</string>
+    <string name="option">اختيار</string>
+    <string name="power_flashlight">قوة مصباح يدوي</string>
+    <string name="power_flashlight_premium">مصباح يدوي السلطة</string>
+    <string name="premium">الممتازة</string>
+    <string name="privacy">خصوصية</string>
+    <string name="rate">معدل</string>
+    <string name="restore_purchases">استعادة المشتريات</string>
+    <string name="save">حفظ</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"البحث"</string>
+    <string name="setting">ضبط</string>
+    <string name="settings">الإعدادات</string>
+    <string name="share">الإقتراحات</string>
+    <string name="share_message">أنا أستخدم٪ 1 $ s. إنه مفيد جدا ومجاني! جربه على:٪ 2 $ s</string>
+    <string name="some_error">بعض الخطأ</string>
+    <string name="sound_of_toggle">صوت تبديل</string>
+    <string name="start_3_day_trial">تبدأ اليوم مع نسخة تجريبية مجانية لمدة 3 أيام</string>
+    <string name="status_bar">شريط الحالة</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">بعد انتهاء التجربة ، يتم تجديد تلقائي عند٪ 1 $ s شهريًا</string>
+    <string name="text_buy_year_content">بعد انتهاء التجربة ، يتم تجديد الفاتورة تلقائيًا بقيمة٪ 1 $ s سنويًا</string>
+    <string name="text_compass">بوصلة</string>
+    <string name="text_compass_normal">بوصلة</string>
+    <string name="text_continue">استمر</string>
+    <string name="text_flashlight">مصباح يدوي</string>
+    <string name="text_flashlight_normal">مصباح يدوي</string>
+    <string name="text_limited_time">ينتهي عرض الوقت المحدود بـ٪ 1 $ s من الساعات٪ 2 $ s min٪ 3 $ s ثوانى</string>
+    <string name="text_up_to_premium">الترقية إلى الإصدار المميز</string>
+    <string name="text_watch_video">شاهد إعلان الفيديو لتجربته مرة واحدة</string>
+    <string name="trail_3_day">نسخة تجريبية مجانية لمدة 3 أيام</string>
+    <string name="version">الإصدار</string>
+    <string name="warning_request_permission">تحتاج إلى تطبيق الوصول إلى الكاميرا لاستخدام مصباح يدوي</string>
+    <string name="wifi">واي فاي</string>
+    <string name="yearly_plan">الخطة السنوية</string>
+</resources>

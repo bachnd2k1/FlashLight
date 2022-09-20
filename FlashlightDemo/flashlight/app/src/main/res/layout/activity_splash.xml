@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_app_style_dark"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.flashlight.demo.activity.SplashActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bg_splash" />
+
+    <LinearLayout
+        android:id="@+id/llAdsViewParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_base"
+        android:orientation="vertical" />
+
+</LinearLayout>

@@ -1,0 +1,250 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.application"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml
+10
+11    <supports-screens
+11-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:6:5-11:40
+12        android:anyDensity="true"
+12-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:7:9-34
+13        android:largeScreens="true"
+13-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:8:9-36
+14        android:normalScreens="true"
+14-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:9:9-37
+15        android:smallScreens="true"
+15-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:10:9-36
+16        android:xlargeScreens="true" />
+16-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:11:9-37
+17
+18    <uses-permission android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS" />
+18-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:12:5-89
+18-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:12:22-86
+19    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+19-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:13:5-88
+19-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:13:22-85
+20    <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+20-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:14:5-90
+20-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:14:22-87
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:15:5-67
+21-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:15:22-64
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:16:5-65
+22-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:16:22-62
+23    <uses-permission android:name="com.android.vending.BILLING" />
+23-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:17:5-67
+23-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:17:22-64
+24
+25    <uses-feature android:name="android.hardware.camera" />
+25-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:19:5-60
+25-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:19:19-57
+26
+27    <uses-permission android:name="android.permission.FLASHLIGHT" />
+27-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:21:5-69
+27-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:21:22-66
+28    <uses-permission android:name="android.permission.WAKE_LOCK" />
+28-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:22:5-68
+28-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:22:22-65
+29    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+29-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:23:5-76
+29-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:23:22-73
+30    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+30-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:24:5-76
+30-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:24:22-73
+31    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+31-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:25:5-78
+31-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:25:22-76
+32    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+32-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:26:5-78
+32-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:26:22-76
+33
+34    <uses-feature android:name="android.hardware.camera.autofocus" />
+34-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:27:5-70
+34-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:27:19-67
+35
+36    <!-- android:networkSecurityConfig="@xml/network_security_config" -->
+37    <application
+37-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:30:5-126:19
+38        android:name="com.flashlight.demo.BaseApplication"
+38-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:31:9-59
+39        android:allowBackup="false"
+39-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:32:9-36
+40        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+40-->[androidx.core:core:1.5.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\d38bd213324f7c4c012734ab003f851f\core-1.5.0\AndroidManifest.xml:24:18-86
+41        android:debuggable="true"
+42        android:hardwareAccelerated="true"
+42-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:33:9-43
+43        android:icon="@mipmap/ic_launcher"
+43-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:34:9-43
+44        android:label="@string/app_name"
+44-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:35:9-41
+45        android:launchMode="singleTask"
+45-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:36:9-40
+46        android:roundIcon="@mipmap/ic_launcher"
+46-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:37:9-48
+47        android:screenOrientation="portrait"
+47-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:38:9-45
+48        android:supportsRtl="true"
+48-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:39:9-35
+49        android:testOnly="true"
+50        android:theme="@style/AppTheme"
+50-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:41:9-40
+51        android:usesCleartextTraffic="true" >
+51-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:40:9-44
+52
+53        <!-- <activity android:name=".activity.HelpActivity"></activity> -->
+54        <!-- <activity android:name=".activity.SettingActivity" /> -->
+55        <!-- <activity -->
+56        <!-- android:name=".activity.MorseActivity" -->
+57        <!-- android:screenOrientation="portrait" -->
+58        <!-- android:windowSoftInputMode="adjustResize" /> -->
+59        <!-- <activity android:name="com.flashlight.demo.activity.PremiumActivity" /> -->
+60        <activity android:name="com.flashlight.demo.activity.ShopCompassActivity" />
+60-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:50:9-85
+60-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:50:19-82
+61        <activity android:name="com.flashlight.demo.activity.ShopFlashlightActivity" />
+61-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:51:9-88
+61-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:51:19-85
+62        <activity
+62-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:52:9-54:47
+63            android:name="com.flashlight.demo.activity.CompassActivity"
+63-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:53:13-72
+64            android:launchMode="singleTask" />
+64-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:54:13-44
+65        <activity
+65-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:55:9-59:57
+66            android:name="com.flashlight.demo.activity.HomeActivity"
+66-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:56:13-69
+67            android:launchMode="singleTask"
+67-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:57:13-44
+68            android:screenOrientation="portrait"
+68-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:58:13-49
+69            android:windowSoftInputMode="adjustResize" />
+69-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:59:13-55
+70        <activity
+70-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:60:9-67:20
+71            android:name="com.flashlight.demo.activity.SplashActivity"
+71-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:60:19-77
+72            android:exported="true" >
+72-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:61:13-36
+73            <intent-filter>
+73-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:62:13-66:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:63:17-69
+74-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:63:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:65:17-77
+76-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:65:27-74
+77            </intent-filter>
+78        </activity>
+79
+80        <receiver
+80-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:69:9-76:20
+81            android:name="com.flashlight.demo.receiver.ConnectionReceiver"
+81-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:70:13-75
+82            android:enabled="true"
+82-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:71:13-35
+83            android:exported="true" >
+83-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:72:13-36
+84            <intent-filter>
+84-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:73:13-75:29
+85                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+85-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:74:17-79
+85-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:74:25-76
+86            </intent-filter>
+87        </receiver>
+88
+89        <!-- <service -->
+90        <!-- android:name="com.flashlight.demo.service.MyFirebaseMessagingService" -->
+91        <!-- android:enabled="true" -->
+92        <!-- android:exported="true" -->
+93        <!-- android:permission="android.permission.BIND_JOB_SERVICE" -->
+94        <!-- android:persistent="true" -->
+95        <!-- android:stopWithTask="false"> -->
+96        <!-- <intent-filter> -->
+97        <!-- <action android:name="com.google.firebase.MESSAGING_EVENT" /> -->
+98        <!-- </intent-filter> -->
+99        <!-- </service> -->
+100        <!-- <service -->
+101        <!-- android:name="com.flashlight.demo.service.MyFirebaseInstanceIDService" -->
+102        <!-- android:enabled="true" -->
+103        <!-- android:exported="true" -->
+104        <!-- android:permission="android.permission.BIND_JOB_SERVICE" -->
+105        <!-- android:persistent="true" -->
+106        <!-- android:stopWithTask="false"> -->
+107        <!-- &lt;!&ndash;            <intent-filter>&ndash;&gt; -->
+108        <!-- &lt;!&ndash;                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />&ndash;&gt; -->
+109        <!-- &lt;!&ndash;            </intent-filter>&ndash;&gt; -->
+110        <!-- </service> -->
+111        <service
+111-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:100:9-106:44
+112            android:name="com.flashlight.demo.service.NotificationIntentService"
+112-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:101:13-81
+113            android:enabled="true"
+113-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:102:13-35
+114            android:exported="true"
+114-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:103:13-36
+115            android:permission="android.permission.BIND_JOB_SERVICE"
+115-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:104:13-69
+116            android:persistent="true"
+116-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:105:13-38
+117            android:stopWithTask="false" />
+117-->C:\Users\Bach\Downloads\FlashlightDemo\flashlight\app\src\main\AndroidManifest.xml:106:13-41
+118
+119        <!-- <meta-data -->
+120        <!-- android:name="io.fabric.ApiKey" -->
+121        <!-- android:value="06f7f9e0535cae5f138197f4915cdf57eda2e914" /> &lt;!&ndash; <meta-data &ndash;&gt; -->
+122        <!-- android:name="com.facebook.sdk.ApplicationId" -->
+123        <!-- android:value="@string/facebook_app_id" /> -->
+124        <!-- <meta-data -->
+125        <!-- android:name="com.google.firebase.messaging.default_notification_channel_id" -->
+126        <!-- android:value="@string/default_notification_channel_id" /> &lt;!&ndash; Set custom default icon. This is used when no icon is set for incoming notification messages &ndash;&gt; -->
+127        <!-- <meta-data -->
+128        <!-- android:name="com.google.firebase.messaging.default_notification_icon" -->
+129        <!-- android:resource="@drawable/flashlight_thumb" /> -->
+130        <!--
+131             Set color used with incoming notification messages. This is used when no color is set for the incoming
+132             notification message
+133        -->
+134        <!-- <meta-data -->
+135        <!-- android:name="com.google.firebase.messaging.default_notification_color" -->
+136        <!-- android:resource="@color/colorAccent" /> -->
+137        <provider
+137-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+138            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+138-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+139            android:authorities="com.example.application.lifecycle-process"
+139-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+140            android:exported="false"
+140-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+141            android:multiprocess="true" />
+141-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\19e0a7bfc8c91a16424b9db360a5fa64\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+142
+143        <meta-data
+143-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:13:9-15:37
+144            android:name="com.google.android.play.billingclient.version"
+144-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:14:13-73
+145            android:value="4.0.0" />
+145-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:15:13-34
+146
+147        <activity
+147-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:17:9-21:75
+148            android:name="com.android.billingclient.api.ProxyBillingActivity"
+148-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:18:13-78
+149            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+149-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:19:13-96
+150            android:exported="false"
+150-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:20:13-37
+151            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+151-->[com.android.billingclient:billing:4.0.0] C:\Users\Bach\.gradle\caches\transforms-2\files-2.1\aa129c47293635393eee179127bab844\jetified-billing-4.0.0\AndroidManifest.xml:21:13-72
+152    </application>
+153
+154</manifest>

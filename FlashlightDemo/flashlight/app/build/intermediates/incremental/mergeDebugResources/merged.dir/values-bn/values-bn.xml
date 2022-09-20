@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">পূর্ব</string>
+    <string name="DirEastNorthEast">পূর্ব - উত্তর পূর্ব</string>
+    <string name="DirEastSouthEast">পূর্ব - দক্ষিণ পূর্ব</string>
+    <string name="DirNorth">উত্তর</string>
+    <string name="DirNorthEast">উত্তর পূর্ব</string>
+    <string name="DirNorthNorthEast">উত্তর - উত্তর পূর্ব</string>
+    <string name="DirNorthNorthWest">উত্তর - উত্তর পশ্চিম</string>
+    <string name="DirNorthwest">পশ্চিম উত্তর</string>
+    <string name="DirSouth">দক্ষিণ</string>
+    <string name="DirSouthEast">পূর্ব দক্ষিণ</string>
+    <string name="DirSouthSouthEast">দক্ষিণ - দক্ষিণ পূর্ব</string>
+    <string name="DirSouthSouthWest">দক্ষিণ - দক্ষিণ পশ্চিম</string>
+    <string name="DirSouthWest">পশ্চিম - দক্ষিণ</string>
+    <string name="DirWest">পশ্চিম</string>
+    <string name="DirWestNorthWest">পশ্চিম - উত্তর পশ্চিম</string>
+    <string name="DirWestSouthWest">পশ্চিম - দক্ষিণ পশ্চিম</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"হোমে নেভিগেট করুন"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"উপরে নেভিগেট করুন"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"আরও বিকল্প"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"হয়ে গেছে"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"সবগুলি দেখুন"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"একটি অ্যাপ বেছে নিন"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"বন্ধ আছে"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"চালু করুন"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"মুছুন"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"সার্চ করুন…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"কোয়েরি মুছে ফেলুন"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"সার্চ কোয়েরি"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"সার্চ করুন"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"কোয়েরি জমা দিন"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ভয়েস সার্চ করুন"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"শেয়ার করুন"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-এর সাথে শেয়ার করুন"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"সঙ্কুচিত করুন"</string>
+    <string name="app_name">টর্চলাইট</string>
+    <string name="auto">ডিফল্ট</string>
+    <string name="cancel_anytime">যে কোনও সময় বাতিল করুন</string>
+    <string name="compass">কম্পাস</string>
+    <string name="data">উপাত্ত</string>
+    <string name="failed_camera">ক্যামেরা পরিষেবাতে সংযোগ দিতে ব্যর্থ</string>
+    <string name="flashlight">টর্চলাইট</string>
+    <string name="free">ফ্রি</string>
+    <string name="get">পাওয়া</string>
+    <string name="help">সাহায্য</string>
+    <string name="home">বাড়ি</string>
+    <string name="language">ভাষা</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">মাসিক পরিকল্পনা</string>
+    <string name="morse">জলহস্তী</string>
+    <string name="most_popular">সবচেয়ে জনপ্রিয়</string>
+    <string name="not_support">আপনার ডিভাইস ফ্ল্যাশ সমর্থন করে না!</string>
+    <string name="numberofDegree">ঝোঁক</string>
+    <string name="option">পছন্দ</string>
+    <string name="power_flashlight">শক্তি ফ্ল্যাশলাইট</string>
+    <string name="power_flashlight_premium">পাওয়ার টর্চলাইট</string>
+    <string name="premium">প্রিমিয়াম</string>
+    <string name="privacy">গোপনীয়তা</string>
+    <string name="rate">রেট দিন</string>
+    <string name="restore_purchases">ক্রয় পুনরুদ্ধার করুন</string>
+    <string name="save">সেভ করুন</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"সার্চ করুন"</string>
+    <string name="setting">স্থাপন</string>
+    <string name="settings">সেটিংস</string>
+    <string name="share">শেয়ার করুন</string>
+    <string name="share_message">আমি %1$s ব্যবহার করছি। এটি এত সহায়ক এবং বিনামূল্যে! এটি চেষ্টা করুন: %2$s</string>
+    <string name="some_error">কিছু ত্রুটি</string>
+    <string name="sound_of_toggle">টগল শব্দ</string>
+    <string name="start_3_day_trial">আজ 3 দিনের বিনামূল্যে ট্রায়াল দিয়ে শুরু করুন</string>
+    <string name="status_bar">স্ট্যাটাস বার</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"৯৯৯+"</string>
+    <string name="text_buy_month_content">পরীক্ষা শেষ হওয়ার পরে, অটো প্রতি মাসে %1$s এ পুনর্নবীকরণ করে</string>
+    <string name="text_buy_year_content">ট্রায়াল শেষ হওয়ার পরে, স্বয়ংক্রিয় বার্ষিক %1$s বিল করে rene</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">কম্পাস</string>
+    <string name="text_continue">চালিয়ে</string>
+    <string name="text_flashlight">টর্চলাইট</string>
+    <string name="text_flashlight_normal">টর্চলাইট</string>
+    <string name="text_limited_time">সীমিত সময় অফার %1$s ঘন্টা %2$s ন্যূনতম %3$s সেকেন্ডে শেষ হয়</string>
+    <string name="text_up_to_premium">প্রিমিয়াম সংস্করণে আপগ্রেড করুন</string>
+    <string name="text_watch_video">একবার চেষ্টা করার জন্য ভিডিও বিজ্ঞাপনটি দেখুন</string>
+    <string name="trail_3_day">3 দিনের বিনামূল্যে ট্রায়াল</string>
+    <string name="version">সংস্করণ</string>
+    <string name="warning_request_permission">ফ্ল্যাশলাইট ব্যবহার করতে আপনাকে ক্যামেরায় অ্যাক্সেস প্রয়োগ করতে হবে</string>
+    <string name="wifi">ওয়াইফাই</string>
+    <string name="yearly_plan">বার্ষিক পরিকল্পনা</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Wschód</string>
+    <string name="DirEastNorthEast">Wschód - północny wschód</string>
+    <string name="DirEastSouthEast">Wschód - południowy wschód</string>
+    <string name="DirNorth">Północ</string>
+    <string name="DirNorthEast">North East</string>
+    <string name="DirNorthNorthEast">Północ - północny wschód</string>
+    <string name="DirNorthNorthWest">Północ - północny zachód</string>
+    <string name="DirNorthwest">Północno-zachodni</string>
+    <string name="DirSouth">południe</string>
+    <string name="DirSouthEast">Wschodnie południe</string>
+    <string name="DirSouthSouthEast">Południe - południowy wschód</string>
+    <string name="DirSouthSouthWest">Południe - południowy zachód</string>
+    <string name="DirSouthWest">Południowy zachód</string>
+    <string name="DirWest">Zachód</string>
+    <string name="DirWestNorthWest">Zachód - północny zachód</string>
+    <string name="DirWestSouthWest">Zachód - południowy zachód</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Przejdź na stronę główną"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Pokaż wszystko"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"WŁ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funkcyjny+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spacja"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Zapytanie"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Udostępnij przez:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Udostępnij przez: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="app_name">Latarka</string>
+    <string name="auto">Domyślna</string>
+    <string name="cancel_anytime">Anuluj w dowolnym momencie</string>
+    <string name="compass">Kompas</string>
+    <string name="data">Dane</string>
+    <string name="failed_camera">Nie udało się połączyć z usługą aparatu</string>
+    <string name="flashlight">Latarka</string>
+    <string name="free">WOLNY</string>
+    <string name="get">OTRZYMAĆ</string>
+    <string name="help">Wsparcie</string>
+    <string name="home">Dom</string>
+    <string name="language">Język</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">PLAN MIESIĘCZNY</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">NAJBARDZIEJ POPULARNY</string>
+    <string name="not_support">Twoje urządzenie nie obsługuje Flasha!</string>
+    <string name="numberofDegree">Orientacja</string>
+    <string name="option">Opcja</string>
+    <string name="power_flashlight">POWER FLASHLIGHT</string>
+    <string name="power_flashlight_premium">Latarka mocy</string>
+    <string name="premium">PREMIA</string>
+    <string name="privacy">Prywatność</string>
+    <string name="rate">Stawka</string>
+    <string name="restore_purchases">Przywróć zakupy</string>
+    <string name="save">Zapisz</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Szukaj"</string>
+    <string name="setting">Oprawa</string>
+    <string name="settings">Ustawienia</string>
+    <string name="share">udział</string>
+    <string name="share_message">Używam %1$s. Jest to bardzo pomocne i BEZPŁATNE! Spróbuj na: %2$s</string>
+    <string name="some_error">Jakiś błąd</string>
+    <string name="sound_of_toggle">Dźwięk Toggle</string>
+    <string name="start_3_day_trial">Zacznij już dziś z 3-dniowym bezpłatnym okresem próbnym</string>
+    <string name="status_bar">Pasek stanu</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">po zakończeniu okresu próbnego odnawia się automatycznie przy %1$s miesięcznie</string>
+    <string name="text_buy_year_content">po zakończeniu okresu próbnego odnawia się automatycznie po %1$s rozliczanych co roku</string>
+    <string name="text_compass">KOMPAS</string>
+    <string name="text_compass_normal">Kompas</string>
+    <string name="text_continue">KONTYNTYNUJ</string>
+    <string name="text_flashlight">LATARKA</string>
+    <string name="text_flashlight_normal">Latarka</string>
+    <string name="text_limited_time">Oferta ograniczona czasowo kończy się za %1$s godzin %2$s min %3$s secs</string>
+    <string name="text_up_to_premium">Uaktualnij do wersji Premium</string>
+    <string name="text_watch_video">Obejrzyj reklamę wideo, aby spróbować raz</string>
+    <string name="trail_3_day">3-dniowy bezpłatny okres próbny</string>
+    <string name="version">Wersja</string>
+    <string name="warning_request_permission">Aby korzystać z latarki, musisz zastosować dostęp do aparatu</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="yearly_plan">PLAN ROCZNY</string>
+</resources>

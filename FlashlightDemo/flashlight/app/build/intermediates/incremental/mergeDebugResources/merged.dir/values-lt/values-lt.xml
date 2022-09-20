@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Rytai</string>
+    <string name="DirEastNorthEast">Rytai - šiaurės rytai</string>
+    <string name="DirEastSouthEast">Rytai - Pietryčiai</string>
+    <string name="DirNorth">Šiaurė</string>
+    <string name="DirNorthEast">Šiaurės rytai</string>
+    <string name="DirNorthNorthEast">Šiaurė - šiaurės rytai</string>
+    <string name="DirNorthNorthWest">Šiaurė - šiaurės vakarai</string>
+    <string name="DirNorthwest">Vakarų šiaurė</string>
+    <string name="DirSouth">Pietų</string>
+    <string name="DirSouthEast">Rytai Pietūs</string>
+    <string name="DirSouthSouthEast">Pietūs - pietryčiai</string>
+    <string name="DirSouthSouthWest">Pietūs - pietvakariai</string>
+    <string name="DirSouthWest">Vakarai - pietūs</string>
+    <string name="DirWest">Vakarai</string>
+    <string name="DirWestNorthWest">Vakarai - šiaurės vakarai</string>
+    <string name="DirWestSouthWest">Vakarai - pietvakariai</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Naršyti aukštyn"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Žr. viską"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pasirinkite programą"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IŠJUNGTI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"„delete“"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"„enter“"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"„space“"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Ieškoti…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Ieškoti"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bendrinti su"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="app_name">Žibintuvėlis</string>
+    <string name="auto">Numatytas</string>
+    <string name="cancel_anytime">Atšaukti bet kada</string>
+    <string name="compass">Kompasas</string>
+    <string name="data">Duomenys</string>
+    <string name="failed_camera">Nepavyko prisijungti prie fotoaparato paslaugos</string>
+    <string name="flashlight">Žibintuvėlis</string>
+    <string name="free">LAISVAS</string>
+    <string name="get">GET</string>
+    <string name="help">Pagalba</string>
+    <string name="home">Namai</string>
+    <string name="language">Kalba</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">MĖNESIO PLANAS</string>
+    <string name="morse">Morzė</string>
+    <string name="most_popular">POPULIARIAUSIAS</string>
+    <string name="not_support">Jūsų įrenginys nepalaiko „Flash“!</string>
+    <string name="numberofDegree">Orientacija</string>
+    <string name="option">Pasirinkimas</string>
+    <string name="power_flashlight">MAITINIMO ŽIBINTAS</string>
+    <string name="power_flashlight_premium">Galingas žibintuvėlis</string>
+    <string name="premium">PREMIJA</string>
+    <string name="privacy">Privatumas</string>
+    <string name="rate">Įvertink</string>
+    <string name="restore_purchases">Atkurti pirkimus</string>
+    <string name="save">Išsaugoti</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Ieškoti"</string>
+    <string name="setting">Nustatymas</string>
+    <string name="settings">Nustatymai</string>
+    <string name="share">Dalintis</string>
+    <string name="share_message">Aš naudoju %1$s. Tai labai naudinga ir nemokama! Išbandykite: %2$s</string>
+    <string name="some_error">Kažkokia klaida</string>
+    <string name="sound_of_toggle">Perjungimo garsas</string>
+    <string name="start_3_day_trial">Pradėkite šiandien nuo 3 dienų nemokamo bandomojo laikotarpio</string>
+    <string name="status_bar">Būsenos juosta</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">pasibaigus bandymui, automobilis atnaujina %1$s per mėnesį</string>
+    <string name="text_buy_year_content">pasibaigus bandymui, „auto“ atnaujina %1$s sąskaitą per metus</string>
+    <string name="text_compass">KOMPASAS</string>
+    <string name="text_compass_normal">Kompasas</string>
+    <string name="text_continue">TĘSTI</string>
+    <string name="text_flashlight">PRIEKINIS ŽIBINTAS</string>
+    <string name="text_flashlight_normal">Žibintuvėlis</string>
+    <string name="text_limited_time">Ribotos trukmės pasiūlymas baigiasi %1$s valandomis %2$s min %3$s sekundėmis</string>
+    <string name="text_up_to_premium">Naujovinkite į „Premium“ versiją</string>
+    <string name="text_watch_video">Peržiūrėkite vaizdo įrašo skelbimą ir išbandykite jį vieną kartą</string>
+    <string name="trail_3_day">3 dienų nemokamas bandymas</string>
+    <string name="version">Versija</string>
+    <string name="warning_request_permission">Norėdami naudoti „Flashlight“, turite pritaikyti prieigą prie „Camera“</string>
+    <string name="wifi">bevielis internetas</string>
+    <string name="yearly_plan">METINIS PLANAS</string>
+</resources>

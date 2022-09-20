@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">изток</string>
+    <string name="DirEastNorthEast">Изток - Североизток</string>
+    <string name="DirEastSouthEast">Изток - Югоизток</string>
+    <string name="DirNorth">север</string>
+    <string name="DirNorthEast">Североизток</string>
+    <string name="DirNorthNorthEast">Север - североизток</string>
+    <string name="DirNorthNorthWest">Север - северозапад</string>
+    <string name="DirNorthwest">Запад север</string>
+    <string name="DirSouth">южно</string>
+    <string name="DirSouthEast">Изток Юг</string>
+    <string name="DirSouthSouthEast">Юг - Югоизток</string>
+    <string name="DirSouthSouthWest">Юг - Югозапад</string>
+    <string name="DirSouthWest">Запад - Юг</string>
+    <string name="DirWest">запад</string>
+    <string name="DirWestNorthWest">Запад - Северозапад</string>
+    <string name="DirWestSouthWest">Запад - Югозапад</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Навигиране към началния екран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Навигиране нагоре"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Преглед на всички"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ИЗКЛ."</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"клавиша за интервал"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Споделяне със: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <string name="app_name">Фенерче</string>
+    <string name="auto">По подразбиране</string>
+    <string name="cancel_anytime">Отказ по всяко време</string>
+    <string name="compass">компас</string>
+    <string name="data">Данни</string>
+    <string name="failed_camera">Неуспешно свързване към услугата Camera</string>
+    <string name="flashlight">Фенерче</string>
+    <string name="free">БЕЗПЛАТНО</string>
+    <string name="get">GET</string>
+    <string name="help">Помогне</string>
+    <string name="home">У дома</string>
+    <string name="language">език</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">МЕСЕЧЕН ПЛАН</string>
+    <string name="morse">морж</string>
+    <string name="most_popular">НАЙ - ИЗВЕСТЕН</string>
+    <string name="not_support">Вашето устройство не поддържа Flash!</string>
+    <string name="numberofDegree">ориентация</string>
+    <string name="option">опция</string>
+    <string name="power_flashlight">СИЛНА СВЕТЛИНА</string>
+    <string name="power_flashlight_premium">Мощен фенер</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">поверителност</string>
+    <string name="rate">скорост</string>
+    <string name="restore_purchases">Възстановяване на покупките</string>
+    <string name="save">Запазване</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Търсене"</string>
+    <string name="setting">обстановка</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Дял</string>
+    <string name="share_message">Използвам %1$s. Толкова е полезно и БЕЗПЛАТНО! Опитайте го на: %2$s</string>
+    <string name="some_error">Известна грешка</string>
+    <string name="sound_of_toggle">Звук от Toggle</string>
+    <string name="start_3_day_trial">Започнете днес с 3-дневна безплатна пробна версия</string>
+    <string name="status_bar">Лента за състоянието</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">след приключване на пробния период, автоматично подновяване на %1$s на месец</string>
+    <string name="text_buy_year_content">след като изпробването приключи, автоматично се подновява на %1$s, таксувано годишно</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">компас</string>
+    <string name="text_continue">ПРОДЪЛЖИ</string>
+    <string name="text_flashlight">ФЕНЕРЧЕ</string>
+    <string name="text_flashlight_normal">Фенерче</string>
+    <string name="text_limited_time">Офертата с ограничено време приключва за %1$s часа %2$s мин %3$s сек</string>
+    <string name="text_up_to_premium">Надграждане до Premium версия</string>
+    <string name="text_watch_video">Гледайте видеорекламата, за да я опитате веднъж</string>
+    <string name="trail_3_day">3-дневен безплатен пробен период</string>
+    <string name="version">версия</string>
+    <string name="warning_request_permission">Трябва да приложите достъп до Camera, за да използвате фенерче</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">ГОДИШЕН ПЛАН</string>
+</resources>

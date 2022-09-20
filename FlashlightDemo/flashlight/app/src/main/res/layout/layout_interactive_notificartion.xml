@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_interact_noti"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/layout_icon"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_small">
+
+        <ImageView
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_notificationhome" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.4"
+            android:text="@string/home"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_flash"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_small">
+
+        <ImageView
+            android:id="@+id/img_flash"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_notificationtorchon" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.4"
+            android:text="@string/flashlight"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_compass"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_small">
+
+        <ImageView
+            android:id="@+id/img_compass"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_notificationcompass" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.4"
+            android:text="@string/compass"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_wifi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_small">
+
+        <ImageView
+            android:id="@+id/img_wifi"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_notificationwifion" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.4"
+            android:text="@string/wifi"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_gprs"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/padding_small">
+
+        <ImageView
+            android:id="@+id/img_gprs"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="2dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_notificationdata" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha="0.4"
+            android:text="@string/data"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Empumalanga</string>
+    <string name="DirEastNorthEast">EMpumalanga - North East</string>
+    <string name="DirEastSouthEast">EMpumalanga - ENingizimu East</string>
+    <string name="DirNorth">Enyakatho</string>
+    <string name="DirNorthEast">ENyakatho East</string>
+    <string name="DirNorthNorthEast">ENyakatho - North East</string>
+    <string name="DirNorthNorthWest">Enyakatho - eNyakatho Ntshonalanga</string>
+    <string name="DirNorthwest">ENtshonalanga esenyakatho</string>
+    <string name="DirSouth">ENingizimu</string>
+    <string name="DirSouthEast">I-East South</string>
+    <string name="DirSouthSouthEast">ENingizimu - South East</string>
+    <string name="DirSouthSouthWest">ENingizimu - ENtshonalanga Ntshonalanga</string>
+    <string name="DirSouthWest">ENtshonalanga - ENingizimu</string>
+    <string name="DirWest">Ntshonalanga</string>
+    <string name="DirWestNorthWest">ENtshonalanga - eNyakatho Ntshonalanga</string>
+    <string name="DirWestSouthWest">West - ENtshonalanga Ntshonalanga</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zulazulela ekhaya"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Zulazulela phezulu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ezinye izinketho"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kwenziwe"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Buka konke"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Khetha insiza"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VALA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"VULA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Imenyu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Sesha…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Sula inkinga"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Sesha umbuzo"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Sesha"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Thumela umbuzo"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ukusesha ngezwi"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Yabelana no"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Yabelana ne-<ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Goqa"</string>
+    <string name="app_name">I-FlashLight</string>
+    <string name="auto">Okuzenzakalelayo</string>
+    <string name="cancel_anytime">Khansela nganoma yisiphi isikhathi</string>
+    <string name="compass">Ikhampasi</string>
+    <string name="data">Idatha</string>
+    <string name="failed_camera">Yehlulekile ukuxhumana nensizakalo yekhamera</string>
+    <string name="flashlight">Ithoshi</string>
+    <string name="free">MAHHALA</string>
+    <string name="get">THOLA</string>
+    <string name="help">Usizo</string>
+    <string name="home">Ikhaya</string>
+    <string name="language">Ulimi</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">UHLELO LENYANGA</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">ISIQINISEKISO ESIPHELELE</string>
+    <string name="not_support">Idivayisi yakho ayisekeli i-Flash!</string>
+    <string name="numberofDegree">Ukuzilolonga</string>
+    <string name="option">Inketho</string>
+    <string name="power_flashlight">AMANDLA AMAHLE</string>
+    <string name="power_flashlight_premium">Flashlight yamandla</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Ubumfihlo</string>
+    <string name="rate">Ukukala</string>
+    <string name="restore_purchases">Buyisela Ukuthenga</string>
+    <string name="save">Londoloza</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Sesha"</string>
+    <string name="setting">Ukubeka</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="share">Yabelana</string>
+    <string name="share_message">Ngisebenzisa i- %1$s. Kuyasiza futhi MAHHALA! Izame ku-: %2$s</string>
+    <string name="some_error">Iphutha elithile</string>
+    <string name="sound_of_toggle">Umsindo wokuguquguqula</string>
+    <string name="start_3_day_trial">Qala namuhla ngesivivinyo samahhala sezinsuku ezi-3</string>
+    <string name="status_bar">Isimo sebha</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">ngemuva kokuphela kwecala, okuzenzakalelayo kuvuselelwa ku- %1$s ngenyanga</string>
+    <string name="text_buy_year_content">ngemuva kokuphela kwecala, ngokuzenzakalela kuvuselelwa ku- %1$s ekhokhisiwe ngonyaka</string>
+    <string name="text_compass">IKHODI</string>
+    <string name="text_compass_normal">Ikhampasi</string>
+    <string name="text_continue">QHUBEKA</string>
+    <string name="text_flashlight">ISIKHWAMA</string>
+    <string name="text_flashlight_normal">Ithoshi</string>
+    <string name="text_limited_time">Ukunikezwa kwesikhathi okunqunyelwe kugcina emahoreni angu- %1$s %2$s min %3$s secs</string>
+    <string name="text_up_to_premium">Thuthukisela ku-premium Version</string>
+    <string name="text_watch_video">Bukela isikhangiso sevidiyo ukuzama kanye</string>
+    <string name="trail_3_day">3 usuku lwesilingo samahhala</string>
+    <string name="version">Inguqulo</string>
+    <string name="warning_request_permission">Udinga ukufaka ukufinyelela ku-Camera ukuze usebenzise i-Flashlight</string>
+    <string name="wifi">I-Wifi</string>
+    <string name="yearly_plan">ISICWANGCISO SONYAKA</string>
+</resources>

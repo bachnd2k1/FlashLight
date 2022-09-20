@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="#25282F"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:fontFamily="@font/quicksand_bold"
+            android:gravity="center"
+            android:text="@string/flash_flicker"
+            android:textColor="#9D9D9D"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/imCloseDialogFlash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="?attr/selectableItemBackground"
+            android:padding="@dimen/padding_small"
+            android:src="@drawable/ic_close_gray" />
+
+    </LinearLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/clPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="@dimen/margin_very_small"
+        android:layout_marginBottom="@dimen/margin_very_small"
+        android:visibility="invisible">
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="36dp"
+            android:src="@drawable/ic_position"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/tvPosition"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="2dp"
+            android:fontFamily="@font/quicksand_bold"
+            android:text="0"
+            android:textColor="#25282F"
+            android:textSize="14sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/padding_base">
+
+        <ImageView
+            android:id="@+id/imIconFlash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_base"
+            android:src="@drawable/ic_flash_off"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/imCompass" />
+
+        <com.xw.repo.BubbleSeekBar
+            android:id="@+id/seekBarFlash"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="24dp"
+            android:layout_weight="1"
+            app:bsb_always_show_bubble="false"
+            app:bsb_auto_adjust_section_mark="true"
+            app:bsb_bubble_color="@color/color_app_style_light"
+            app:bsb_bubble_text_color="@color/color_app_style_dark"
+            app:bsb_hide_bubble="true"
+            app:bsb_max="10"
+            app:bsb_min="0"
+            app:bsb_second_track_color="@color/color_app_style_light"
+            app:bsb_second_track_size="6dp"
+            app:bsb_section_count="10"
+            app:bsb_seek_step_section="true"
+            app:bsb_show_section_mark="true"
+            app:bsb_show_section_text="false"
+            app:bsb_track_color="@color/color_gray"
+            app:bsb_track_size="2dp"
+            app:layout_constraintBottom_toBottomOf="@id/imIconFlash"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imIconFlash"
+            app:layout_constraintTop_toTopOf="@id/imIconFlash" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/llAdsViewParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+</LinearLayout>

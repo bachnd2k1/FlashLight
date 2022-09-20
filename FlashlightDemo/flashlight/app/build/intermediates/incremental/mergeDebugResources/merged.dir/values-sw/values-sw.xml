@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Mashariki</string>
+    <string name="DirEastNorthEast">Mashariki - Mashariki ya Kaskazini</string>
+    <string name="DirEastSouthEast">Mashariki - Mashariki ya Kusini</string>
+    <string name="DirNorth">Kaskazini</string>
+    <string name="DirNorthEast">Kaskazini Mashariki</string>
+    <string name="DirNorthNorthEast">Kaskazini - Mashariki ya Kaskazini</string>
+    <string name="DirNorthNorthWest">Kaskazini - Kaskazini Magharibi</string>
+    <string name="DirNorthwest">Magharibi kaskazini</string>
+    <string name="DirSouth">Kusini</string>
+    <string name="DirSouthEast">Mashariki ya Kusini</string>
+    <string name="DirSouthSouthEast">Kusini - Mashariki ya Kusini</string>
+    <string name="DirSouthSouthWest">Kusini - Kusini Magharibi</string>
+    <string name="DirSouthWest">Magharibi - Kusini</string>
+    <string name="DirWest">Magharibi</string>
+    <string name="DirWestNorthWest">Magharibi - Kaskazini Magharibi</string>
+    <string name="DirWestSouthWest">Magharibi - Magharibi Magharibi</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Nenda mwanzo"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Sogeza juu"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Chaguo zaidi"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Nimemaliza"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Angalia zote"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chagua programu"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"IMEZIMWA"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"IMEWASHWA"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tafuta…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Futa hoja"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tafuta"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Wasilisha hoja"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Kutafuta kwa kutamka"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Shiriki na"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Shiriki ukitumia <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Kunja"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">Chaguo-msingi</string>
+    <string name="cancel_anytime">Ghairi Wakati wowote</string>
+    <string name="compass">Kampasi</string>
+    <string name="data">Takwimu</string>
+    <string name="failed_camera">Imeshindwa kuunganisha kwenye huduma ya Kamera</string>
+    <string name="flashlight">Tochi</string>
+    <string name="free">BURE</string>
+    <string name="get">PATA</string>
+    <string name="help">Msaada</string>
+    <string name="home">Nyumbani</string>
+    <string name="language">Lugha</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">MPANGO WA MWEZI</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">MAARUFU SANA</string>
+    <string name="not_support">Kifaa chako hakiingiliani na Flash!</string>
+    <string name="numberofDegree">Mazoezi</string>
+    <string name="option">Chaguo</string>
+    <string name="power_flashlight">PODA LA PULE</string>
+    <string name="power_flashlight_premium">Tochi ya Nguvu</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Usiri</string>
+    <string name="rate">Kiwango</string>
+    <string name="restore_purchases">Rejesha Ununuzi</string>
+    <string name="save">Hifadhi</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tafuta"</string>
+    <string name="setting">Kuweka</string>
+    <string name="settings">Mipangilio</string>
+    <string name="share">Shiriki</string>
+    <string name="share_message">Natumia %1$s. Inasaidia sana na BURE! Jaribu kwa: %2$s</string>
+    <string name="some_error">Kosa fulani</string>
+    <string name="sound_of_toggle">Sauti ya Kubadilisha</string>
+    <string name="start_3_day_trial">Anza leo na jaribio la bure la siku 3</string>
+    <string name="status_bar">Hali ya Baa</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">baada ya kumalizika kwa jaribio, auto huboresha upya kwa %1$s kwa mwezi</string>
+    <string name="text_buy_year_content">baada ya kumalizika kwa jaribio, auto huboresha upya kwa %1$s kila mwaka</string>
+    <string name="text_compass">KAMPUNI</string>
+    <string name="text_compass_normal">Kampasi</string>
+    <string name="text_continue">Endelea</string>
+    <string name="text_flashlight">JUU</string>
+    <string name="text_flashlight_normal">Tochi</string>
+    <string name="text_limited_time">Kutoa kwa wakati mdogo kumalizika kwa masaa %1$s %2$s min %3$s sec</string>
+    <string name="text_up_to_premium">Boresha kwa toleo la premium</string>
+    <string name="text_watch_video">Tazama tangazo la video ili kujaribu mara moja</string>
+    <string name="trail_3_day">Kesi ya bure ya siku 3</string>
+    <string name="version">Toleo</string>
+    <string name="warning_request_permission">Unahitaji kutumia ufikiaji wa Kamera ili kutumia tochi</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">MPANGO WA KIUME</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Timur</string>
+    <string name="DirEastNorthEast">Timur - Timur Utara</string>
+    <string name="DirEastSouthEast">Timur - Tenggara</string>
+    <string name="DirNorth">Utara</string>
+    <string name="DirNorthEast">Timur laut</string>
+    <string name="DirNorthNorthEast">Utara - Timur Utara</string>
+    <string name="DirNorthNorthWest">Utara - Utara Barat</string>
+    <string name="DirNorthwest">Utara utara</string>
+    <string name="DirSouth">Selatan</string>
+    <string name="DirSouthEast">Timur Selatan</string>
+    <string name="DirSouthSouthEast">Selatan - Tenggara</string>
+    <string name="DirSouthSouthWest">Selatan - Selatan Barat</string>
+    <string name="DirSouthWest">Barat - Selatan</string>
+    <string name="DirWest">Barat</string>
+    <string name="DirWestNorthWest">West - North West</string>
+    <string name="DirWestSouthWest">West - South West</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigasi laman utama"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigasi ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Lagi pilihan"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih apl"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"MATI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"HIDUP"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fungsi+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ruang"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Cari…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Kosongkan pertanyaan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Pertanyaan carian"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Cari"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Serah pertanyaan"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Carian suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Kongsi dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Kongsi dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Runtuhkan"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">Lalai</string>
+    <string name="cancel_anytime">Batal pada bila-bila masa</string>
+    <string name="compass">Kompas</string>
+    <string name="data">Data</string>
+    <string name="failed_camera">Gagal menyambung ke perkhidmatan Kamera</string>
+    <string name="flashlight">Lampu suluh</string>
+    <string name="free">Percuma</string>
+    <string name="get">GET</string>
+    <string name="help">Bantuan</string>
+    <string name="home">Rumah</string>
+    <string name="language">Bahasa</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">RANCANGAN BULANAN</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">PALING POPULAR</string>
+    <string name="not_support">Peranti anda tidak menyokong Flash!</string>
+    <string name="numberofDegree">Orientasi</string>
+    <string name="option">Pilihan</string>
+    <string name="power_flashlight">FLASHLIGHT KUASA</string>
+    <string name="power_flashlight_premium">Lampu suluh kuasa</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Privasi</string>
+    <string name="rate">Nilaikan</string>
+    <string name="restore_purchases">Pulihkan Pembelian</string>
+    <string name="save">Simpan</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Cari"</string>
+    <string name="setting">Menetapkan</string>
+    <string name="settings">Tetapan</string>
+    <string name="share">berkongsi</string>
+    <string name="share_message">Saya menggunakan %1$s. Ia sangat membantu dan PERCUMA! Cuba di: %2$s</string>
+    <string name="some_error">Beberapa ralat</string>
+    <string name="sound_of_toggle">Bunyi Togol</string>
+    <string name="start_3_day_trial">Mulai hari ini dengan percubaan percuma 3 hari</string>
+    <string name="status_bar">Bar status</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">selepas percubaan berakhir, auto memperbaharui pada %1$s sebulan</string>
+    <string name="text_buy_year_content">selepas perbicaraan berakhir, auto diperbaharui pada %1$s yang dibilkan setiap tahun</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">Kompas</string>
+    <string name="text_continue">SAMBUNGAN</string>
+    <string name="text_flashlight">FLASHLIGHT</string>
+    <string name="text_flashlight_normal">Lampu suluh</string>
+    <string name="text_limited_time">Tawaran masa terhad berakhir dalam %1$s jam %2$s minit %3$s saat</string>
+    <string name="text_up_to_premium">Naik taraf ke Versi Premium</string>
+    <string name="text_watch_video">Tonton iklan video untuk mencuba sekali</string>
+    <string name="trail_3_day">3 hari percubaan percuma</string>
+    <string name="version">Versi</string>
+    <string name="warning_request_permission">Anda perlu memohon akses kepada Kamera untuk menggunakan Lampu suluh</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">RANCANGAN TAHUNAN</string>
+</resources>

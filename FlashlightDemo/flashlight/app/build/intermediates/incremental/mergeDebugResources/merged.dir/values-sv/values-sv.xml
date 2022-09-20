@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">öst</string>
+    <string name="DirEastNorthEast">East - North East</string>
+    <string name="DirEastSouthEast">East - South East</string>
+    <string name="DirNorth">Norr</string>
+    <string name="DirNorthEast">Nordost</string>
+    <string name="DirNorthNorthEast">Nord - Nordost</string>
+    <string name="DirNorthNorthWest">Nord - Nordväst</string>
+    <string name="DirNorthwest">Väst Nord</string>
+    <string name="DirSouth">söder</string>
+    <string name="DirSouthEast">East South</string>
+    <string name="DirSouthSouthEast">Syd - Sydost</string>
+    <string name="DirSouthSouthWest">Syd - sydväst</string>
+    <string name="DirSouthWest">Väst - söder</string>
+    <string name="DirWest">väst</string>
+    <string name="DirWestNorthWest">Väst - Nordväst</string>
+    <string name="DirWestSouthWest">Väst - sydväst</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navigera hem"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navigera uppåt"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Fler alternativ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Klar"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Visa alla"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Välj en app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"PÅ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt + "</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl + "</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"retur"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktion + "</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta + "</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Skift + "</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"blanksteg"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Symbol + "</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Meny + "</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Sök …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Ta bort frågan"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Sökfråga"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Sök"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Skicka fråga"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Röstsökning"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Dela med"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Dela med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="app_name">Ficklampa</string>
+    <string name="auto">Standard</string>
+    <string name="cancel_anytime">Avbryt när som helst</string>
+    <string name="compass">Kompass</string>
+    <string name="data">Data</string>
+    <string name="failed_camera">Det gick inte att ansluta till kameratjänsten</string>
+    <string name="flashlight">Ficklampa</string>
+    <string name="free">Gratis</string>
+    <string name="get">SKAFFA SIG</string>
+    <string name="help">Hjälp</string>
+    <string name="home">Hem</string>
+    <string name="language">Språk</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">MÅNADSPLAN</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">MEST POPULÄR</string>
+    <string name="not_support">Din enhet stöder inte Flash!</string>
+    <string name="numberofDegree">Orientering</string>
+    <string name="option">Alternativ</string>
+    <string name="power_flashlight">KRAFTSTÄLLNING</string>
+    <string name="power_flashlight_premium">Power ficklampa</string>
+    <string name="premium">PREMIE</string>
+    <string name="privacy">Integritet</string>
+    <string name="rate">Betygsätt</string>
+    <string name="restore_purchases">Återställa köp</string>
+    <string name="save">Spara</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Sök"</string>
+    <string name="setting">Miljö</string>
+    <string name="settings">inställningar</string>
+    <string name="share">Dela</string>
+    <string name="share_message">Jag använder %1$s. Det är så hjälpsamt och GRATIS! Prova det på: %2$s</string>
+    <string name="some_error">Vissa fel</string>
+    <string name="sound_of_toggle">Sound of Toggle</string>
+    <string name="start_3_day_trial">Börja idag med 3 dagars gratis provperiod</string>
+    <string name="status_bar">Statusfältet</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">efter att testet är slut förnyas auto till %1$s per månad</string>
+    <string name="text_buy_year_content">efter att rättegången är slut förnyas auto-% till %1$s per år</string>
+    <string name="text_compass">KOMPASS</string>
+    <string name="text_compass_normal">Kompass</string>
+    <string name="text_continue">FORTSÄTTA</string>
+    <string name="text_flashlight">FICKLAMPA</string>
+    <string name="text_flashlight_normal">Ficklampa</string>
+    <string name="text_limited_time">Erbjudandet med begränsad tid slutar om %1$s timmar %2$s min %3$s sek</string>
+    <string name="text_up_to_premium">Uppgradera till premiumversion</string>
+    <string name="text_watch_video">Se videoannonsen för att prova en gång</string>
+    <string name="trail_3_day">3 dagars kostnadsfri provperiod</string>
+    <string name="version">Version</string>
+    <string name="warning_request_permission">Du måste använda åtkomst till kamera för att använda ficklampa</string>
+    <string name="wifi">wifi</string>
+    <string name="yearly_plan">ÅRLIG PLAN</string>
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Lindja</string>
+    <string name="DirEastNorthEast">Lindje - Veri Lindje</string>
+    <string name="DirEastSouthEast">Lindje - Jug-Lindje</string>
+    <string name="DirNorth">veri</string>
+    <string name="DirNorthEast">Në veri-lindje</string>
+    <string name="DirNorthNorthEast">Veri - Lindja e Veriut</string>
+    <string name="DirNorthNorthWest">Veri - Veriperëndim</string>
+    <string name="DirNorthwest">Perëndim në veri</string>
+    <string name="DirSouth">jug</string>
+    <string name="DirSouthEast">Lindja e Jugut</string>
+    <string name="DirSouthSouthEast">Jug - Jug-Lindje</string>
+    <string name="DirSouthSouthWest">Jug - Jug-Perëndim</string>
+    <string name="DirSouthWest">Perëndim - Jug</string>
+    <string name="DirWest">perëndim</string>
+    <string name="DirWestNorthWest">Perëndim - Veri-Perëndim</string>
+    <string name="DirWestSouthWest">Perëndim - Jug-Perëndim</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Orientohu për në shtëpi"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Ngjitu lart"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsione të tjera"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"U krye"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Shfaq çdo gjë"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Zgjidh një aplikacion"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"JOAKTIV"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIV"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funksioni+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"hapësirë"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menyja+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Kërko…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Pastro pyetjen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Kërko pyetjen"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Kërko"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Dërgo pyetjen"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Kërkim me zë"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Ndaje me"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Ndaje me <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Palos"</string>
+    <string name="app_name">dritë sinjalizimi</string>
+    <string name="auto">Default</string>
+    <string name="cancel_anytime">Anuloni çdo herë</string>
+    <string name="compass">busull</string>
+    <string name="data">të dhëna</string>
+    <string name="failed_camera">Dështoi të lidhej me shërbimin e Kamerës</string>
+    <string name="flashlight">dritë sinjalizimi</string>
+    <string name="free">FALAS</string>
+    <string name="get">MARR</string>
+    <string name="help">Ndihmë</string>
+    <string name="home">shtëpi</string>
+    <string name="language">Gjuhe</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">PLANI MUAJ</string>
+    <string name="morse">kopsë</string>
+    <string name="most_popular">M M SHUM POPULLORE</string>
+    <string name="not_support">Pajisja juaj nuk e mbështet Flash!</string>
+    <string name="numberofDegree">Orientim</string>
+    <string name="option">alternativë</string>
+    <string name="power_flashlight">FLET FUQI</string>
+    <string name="power_flashlight_premium">Fener elektrik</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">intimitet</string>
+    <string name="rate">normë</string>
+    <string name="restore_purchases">Rivendosni blerjet</string>
+    <string name="save">Ruaj</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Kërko"</string>
+    <string name="setting">mjedis</string>
+    <string name="settings">Cilësimet</string>
+    <string name="share">pjesë</string>
+    <string name="share_message">Unë jam duke përdorur %1$s. Soshtë kaq e dobishme dhe FALAS! Provojeni në: %2$s</string>
+    <string name="some_error">Disa gabime</string>
+    <string name="sound_of_toggle">Tingulli i ndryshimit</string>
+    <string name="start_3_day_trial">Filloni sot me 3 ditë provë falas</string>
+    <string name="status_bar">Status bar</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">pasi të mbarojë prova, automatiku rinovon me %1$s në muaj</string>
+    <string name="text_buy_year_content">pasi të mbarojë prova, automatiku rinovon me %1$s të faturuar çdo vit</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">busull</string>
+    <string name="text_continue">VAZHDO</string>
+    <string name="text_flashlight">elektrik dore</string>
+    <string name="text_flashlight_normal">dritë sinjalizimi</string>
+    <string name="text_limited_time">Oferta me kohë të kufizuar përfundon në %1$s orë %2$s min %3$s sec</string>
+    <string name="text_up_to_premium">Përditësoni në Versionin Premium</string>
+    <string name="text_watch_video">Shikoni reklamën e videos për ta provuar një herë</string>
+    <string name="trail_3_day">3 ditë provë falas</string>
+    <string name="version">Version</string>
+    <string name="warning_request_permission">Ju duhet të aplikoni qasje në Kamera për të përdorur elektrik dore</string>
+    <string name="wifi">wifi</string>
+    <string name="yearly_plan">PLANI VJETOR</string>
+</resources>

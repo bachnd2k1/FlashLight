@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Ekialdeko</string>
+    <string name="DirEastNorthEast">Ekialdea - ipar ekialdea</string>
+    <string name="DirEastSouthEast">Ekialdea - Hego-ekialdea</string>
+    <string name="DirNorth">Ipar</string>
+    <string name="DirNorthEast">Ipar ekialdea</string>
+    <string name="DirNorthNorthEast">Ipar - Ipar Ekialdea</string>
+    <string name="DirNorthNorthWest">Ipar - Ipar Mendebaldea</string>
+    <string name="DirNorthwest">Ipar mendebaldean</string>
+    <string name="DirSouth">Hego</string>
+    <string name="DirSouthEast">Ekialde hegoaldea</string>
+    <string name="DirSouthSouthEast">Hego-ekialdea</string>
+    <string name="DirSouthSouthWest">Hego-mendebaldea</string>
+    <string name="DirSouthWest">Mendebaldea - Hegoaldea</string>
+    <string name="DirWest">West</string>
+    <string name="DirWestNorthWest">Mendebaldea - Ipar Mendebaldea</string>
+    <string name="DirWestSouthWest">Mendebaldea - Hego-mendebaldea</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Joan orri nagusira"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Joan gora"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Aukera gehiago"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Eginda"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ikusi guztiak"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Aukeratu aplikazio bat"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESAKTIBATU"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIBATU"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ktrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ezabatu"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"sartu"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funtzioa +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maius +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"zuriunea"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menua +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Bilatu…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Garbitu kontsulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Bilaketa-kontsulta"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Bilatu"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Bidali kontsulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Ahozko bilaketa"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partekatu honekin"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partekatu <ns1:g id="APPLICATION_NAME">%s</ns1:g> aplikazioarekin"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Tolestu"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">Default</string>
+    <string name="cancel_anytime">Baliogabetu edonoiz</string>
+    <string name="compass">Compass</string>
+    <string name="data">Datuak</string>
+    <string name="failed_camera">Huts egin du Kamera zerbitzuarekin konektatzean</string>
+    <string name="flashlight">linterna</string>
+    <string name="free">FREE</string>
+    <string name="get">GET</string>
+    <string name="help">Laguntza</string>
+    <string name="home">Hasiera</string>
+    <string name="language">Hizkuntza</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">HIRU PLANA</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">EZAGUNENA</string>
+    <string name="not_support">Zure gailuak ez du Flash onartzen.</string>
+    <string name="numberofDegree">Orientazio</string>
+    <string name="option">aukera</string>
+    <string name="power_flashlight">POWER FLASHLIGHT</string>
+    <string name="power_flashlight_premium">Power linterna</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">pribatutasuna</string>
+    <string name="rate">Tarifa</string>
+    <string name="restore_purchases">Erosketak leheneratu</string>
+    <string name="save">Save</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Bilatu"</string>
+    <string name="setting">Entorno</string>
+    <string name="settings">ezarpenak</string>
+    <string name="share">Share</string>
+    <string name="share_message"> %1$s erabiltzen ari naiz. Hain da lagungarria eta DOAKO! Saiatu: %2$s</string>
+    <string name="some_error">Zenbait errore</string>
+    <string name="sound_of_toggle">Toggle-ren soinua</string>
+    <string name="start_3_day_trial">Hasi gaur 3 eguneko doako probarekin</string>
+    <string name="status_bar">Egoera-barra</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">epaiketa amaitu ondoren, autoak %1$s hilean berrizten ditu</string>
+    <string name="text_buy_year_content">epaiketa amaitu ondoren, urtero fakturatzen da %1$s fakturatzen da</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">Compass</string>
+    <string name="text_continue">JARRAITU</string>
+    <string name="text_flashlight">linterna</string>
+    <string name="text_flashlight_normal">linterna</string>
+    <string name="text_limited_time">Denbora mugatuko eskaintza %1$s orduetan %2$s min %3$s segundotan amaitzen da</string>
+    <string name="text_up_to_premium">Eguneratu Premium bertsiora</string>
+    <string name="text_watch_video">Ikusi bideo iragarkia behin probatzeko</string>
+    <string name="trail_3_day">3 eguneko doako proba</string>
+    <string name="version">Bertsio</string>
+    <string name="warning_request_permission">Lanterna erabiltzeko Kamerara sarbidea aplikatu behar duzu</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">URTEKO PLANA</string>
+</resources>

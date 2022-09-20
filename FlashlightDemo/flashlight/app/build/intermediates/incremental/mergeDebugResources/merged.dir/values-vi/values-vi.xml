@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Hướng Đông</string>
+    <string name="DirEastNorthEast">Hướng Đông - Đông Bắc</string>
+    <string name="DirEastSouthEast">Hướng Đông - Đông Nam</string>
+    <string name="DirNorth">Hướng Bắc</string>
+    <string name="DirNorthEast">Hướng Đông bắc</string>
+    <string name="DirNorthNorthEast">Hướng Bắc - Đông Bắc</string>
+    <string name="DirNorthNorthWest">Hướng Bắc - Tây Bắc</string>
+    <string name="DirNorthwest">Hướng Tây Bắc</string>
+    <string name="DirSouth">Hướng Nam</string>
+    <string name="DirSouthEast">Hướng Đông Nam</string>
+    <string name="DirSouthSouthEast">Hướng Nam - Đông Nam</string>
+    <string name="DirSouthSouthWest">Hướng Nam - Tây Nam</string>
+    <string name="DirSouthWest">Hướng Tây - Nam</string>
+    <string name="DirWest">Hướng Tây</string>
+    <string name="DirWestNorthWest">Hướng Tây - Tây Bắc</string>
+    <string name="DirWestSouthWest">Hướng Tây - Tây Nam</string>
+    <string name="Downloading">Đang tải...</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Chỉ đường về nhà"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Di chuyển lên"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Tùy chọn khác"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Xong"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Xem tất cả"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Chọn một ứng dụng"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"TẮT"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BẬT"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Tìm kiếm…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Xóa truy vấn"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Truy vấn tìm kiếm"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Tìm kiếm"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Gửi truy vấn"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Tìm kiếm bằng giọng nói"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Chia sẻ với"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Chia sẻ với <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Thu gọn"</string>
+    <string name="app_name">Đèn flash</string>
+    <string name="auto">Mặc định</string>
+    <string name="cancel_anytime">Hủy bỏ bất cứ lúc nào</string>
+    <string name="compass">La bàn</string>
+    <string name="data">Dữ liệu</string>
+    <string name="failed_camera">Không thể kết nối với Camera</string>
+    <string name="flashlight">Đèn pin</string>
+    <string name="free">MIỄN PHÍ</string>
+    <string name="get">Tải</string>
+    <string name="help">Cứu giúp</string>
+    <string name="home">Trang Chủ</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="loading_ads_dialog">Đang tải quảng cáo</string>
+    <string name="monthly_plan">GÓI THÁNG</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">PHỔ BIẾN NHẤT</string>
+    <string name="not_support">Thiết bị của bạn không hỗ trợ Flash!</string>
+    <string name="numberofDegree">Sự định hướng</string>
+    <string name="option">Lựa chọn</string>
+    <string name="power_flashlight">POWER FLASHLIGHT</string>
+    <string name="power_flashlight_premium">Power Flashlight</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">Bảo mật</string>
+    <string name="rate">Đánh giá</string>
+    <string name="restore_purchases">Khôi phục cửa hàng</string>
+    <string name="save">Lưu</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Tìm kiếm"</string>
+    <string name="setting">Cài đặt</string>
+    <string name="settings">Cài đặt</string>
+    <string name="share">Chia sẻ</string>
+    <string name="share_message">Tôi đang sử dụng %1$s. Nó rất hữu ích và MIỄN PHÍ! Hãy thử tại: %2$s</string>
+    <string name="some_error">Một số lỗi</string>
+    <string name="sound_of_toggle">Âm thanh</string>
+    <string name="start_3_day_trial">Bắt đầu ngay hôm nay với 3 ngày dùng thử miễn phí</string>
+    <string name="status_bar">Thanh trạng thái</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">sau khi thử nghiệm kết thúc, tự động gia hạn ở %1$s mỗi tháng</string>
+    <string name="text_buy_year_content">sau khi thử nghiệm kết thúc, tự động gia hạn ở %1$s được lập hóa đơn hàng năm</string>
+    <string name="text_compass">LA BÀN</string>
+    <string name="text_compass_normal">La bàn</string>
+    <string name="text_continue">TIẾP TỤC</string>
+    <string name="text_flashlight">FLASHLIGHT</string>
+    <string name="text_flashlight_normal">Đèn pin</string>
+    <string name="text_limited_time">Ưu đãi giới hạn thời gian kết thúc sau %1$s giờ %2$s phút %3$s giây</string>
+    <string name="text_up_to_premium">Nâng cấp lên phiên bản cao cấp</string>
+    <string name="text_watch_video">Xem quảng cáo để thử một lần</string>
+    <string name="trail_3_day">Dùng thử miễn phí 3 ngày</string>
+    <string name="version">Phiên bản</string>
+    <string name="warning_request_permission">Bạn cần cấp quyền truy cập vào Camera để sử dụng Đèn pin</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">GÓI NĂM</string>
+</resources>

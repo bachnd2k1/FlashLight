@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">ທິດຕາເວັນອອກ</string>
+    <string name="DirEastNorthEast">ທິດຕາເວັນອອກ - ຕາເວັນອອກສຽງ ເໜືອ</string>
+    <string name="DirEastSouthEast">ທິດຕາເວັນອອກ - ຕາເວັນອອກສຽງໃຕ້</string>
+    <string name="DirNorth">ພາກ ເໜືອ</string>
+    <string name="DirNorthEast">ທິດຕາເວັນອອກສຽງ ເໜືອ</string>
+    <string name="DirNorthNorthEast">ທິດ ເໜືອ - ທິດຕາເວັນອອກສຽງ ເໜືອ</string>
+    <string name="DirNorthNorthWest">ທິດ ເໜືອ - ທິດ ເໜືອ</string>
+    <string name="DirNorthwest">ທິດຕາເວັນຕົກສຽງ ເໜືອ</string>
+    <string name="DirSouth">ພາກໃຕ້</string>
+    <string name="DirSouthEast">ທິດຕາເວັນອອກສຽງໃຕ້</string>
+    <string name="DirSouthSouthEast">ທິດໃຕ້ - ຕາເວັນອອກສຽງໃຕ້</string>
+    <string name="DirSouthSouthWest">ພາກໃຕ້ - ທິດຕາເວັນຕົກສຽງໃຕ້</string>
+    <string name="DirSouthWest">ທິດຕາເວັນຕົກ - ໃຕ້</string>
+    <string name="DirWest">ທິດຕາເວັນຕົກ</string>
+    <string name="DirWestNorthWest">ທິດຕາເວັນຕົກ - ທິດ ເໜືອ</string>
+    <string name="DirWestSouthWest">ທິດຕາເວັນຕົກ - ທິດຕາເວັນຕົກສຽງໃຕ້</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"ກັບໄປໜ້າຫຼັກ"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ເລື່ອນຂຶ້ນເທິງ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ຕົວເລືອກເພີ່ມເຕີມ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"ແລ້ວໆ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"ເບິ່ງທັງໝົດ"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ເລືອກແອັບ"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ປິດ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ເປີດ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"ລຶບ"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"ຍະຫວ່າງ"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ຊອກຫາ…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ລຶບຂໍ້ຄວາມຊອກຫາ"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ຄຳສຳລັບຄົ້ນຫາ"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ຊອກຫາ"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ສົ່ງຂໍ້ມູນ"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ຊອກຫາດ້ວຍສຽງ"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ແບ່ງປັນກັບ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"ແບ່ງປັນດ້ວຍ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ຫຍໍ້ລົງ"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">ເລີ່ມຕົ້ນ</string>
+    <string name="cancel_anytime">ຍົກເລີກໄດ້ທຸກເວລາ</string>
+    <string name="compass">ເຂັມ</string>
+    <string name="data">ຂໍ້ມູນ</string>
+    <string name="failed_camera">ການເຊື່ອມຕໍ່ບໍລິການກ້ອງຖ່າຍຮູບລົ້ມເຫລວ</string>
+    <string name="flashlight">ໄຟສາຍ</string>
+    <string name="free">ຟຣີ</string>
+    <string name="get">ໄດ້ຮັບ</string>
+    <string name="help">ຊ່ວຍເຫຼືອ</string>
+    <string name="home">ເຮືອນ</string>
+    <string name="language">ພາສາ</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">ແຜນການປະ ຈຳ ເດືອນ</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">ປະຊາຊົນຫຼາຍທີ່ສຸດ</string>
+    <string name="not_support">ອຸປະກອນຂອງທ່ານບໍ່ຮອງຮັບ Flash!</string>
+    <string name="numberofDegree">ທິດທາງ</string>
+    <string name="option">ທາງເລືອກ</string>
+    <string name="power_flashlight">ພະລັງງານໄຟ</string>
+    <string name="power_flashlight_premium">ໄຟສາຍໄຟ</string>
+    <string name="premium">PREMIUM</string>
+    <string name="privacy">ຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="rate">ອັດຕາ</string>
+    <string name="restore_purchases">ການ​ຟື້ນ​ຟູ​ການ​ຊື້</string>
+    <string name="save">ບັນທຶກ</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ຊອກຫາ"</string>
+    <string name="setting">ການຕັ້ງຄ່າ</string>
+    <string name="settings">ການຕັ້ງຄ່າ</string>
+    <string name="share">ແບ່ງປັນ</string>
+    <string name="share_message">ຂ້ອຍ ກຳ ລັງໃຊ້ %1$s. ມັນເປັນປະໂຫຍດຫຼາຍແລະບໍ່ເສຍຄ່າ! ລອງເບິ່ງທີ່: %2$s</string>
+    <string name="some_error">ບາງຂໍ້ຜິດພາດ</string>
+    <string name="sound_of_toggle">ສຽງຂອງ Toggle</string>
+    <string name="start_3_day_trial">ເລີ່ມມື້ນີ້ດ້ວຍການທົດລອງຟຣີ 3 ວັນ</string>
+    <string name="status_bar">ແຖບສະຖານະພາບ</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">ຫຼັງຈາກການທົດລອງສິ້ນສຸດລົງ, ການຕໍ່ອາຍຸອັດຕະໂນມັດທີ່ %1$s ຕໍ່ເດືອນ</string>
+    <string name="text_buy_year_content">ຫຼັງຈາກການທົດລອງສິ້ນສຸດລົງ, ການຕໍ່ອາຍຸຄືນ ໃໝ່ ທີ່ %1$s ຖືກເກັບເງິນທຸກໆປີ</string>
+    <string name="text_compass">ຄອມພີວເຕີ້</string>
+    <string name="text_compass_normal">ເຂັມ</string>
+    <string name="text_continue">ສືບຕໍ່</string>
+    <string name="text_flashlight">ດອກໄມ້ສົດ</string>
+    <string name="text_flashlight_normal">ໄຟສາຍ</string>
+    <string name="text_limited_time">ການສະ ເໜີ ເວລາ ຈຳ ກັດສິ້ນສຸດລົງໃນ %1$s ຊົ່ວໂມງ %2$s min %3$s secs</string>
+    <string name="text_up_to_premium">ຍົກລະດັບໃຫ້ເປັນລຸ້ນ Premium</string>
+    <string name="text_watch_video">ເບິ່ງໂຄສະນາວິດີໂອເພື່ອທົດລອງໃຊ້ຄັ້ງດຽວ</string>
+    <string name="trail_3_day">ການທົດລອງຟຣີ 3 ວັນ</string>
+    <string name="version">ຮຸ່ນ</string>
+    <string name="warning_request_permission">ທ່ານ ຈຳ ເປັນຕ້ອງສະ ໝັກ ເຂົ້າໃຊ້ກ້ອງເພື່ອໃຊ້ໄຟສາຍໄຟ</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">ແຜນປະ ຈຳ ປີ</string>
+</resources>

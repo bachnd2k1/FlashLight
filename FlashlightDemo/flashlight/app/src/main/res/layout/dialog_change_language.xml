@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.85" />
+
+
+    <RelativeLayout
+        android:id="@+id/rlSearchFilter"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="@dimen/margin_base"
+        android:layout_marginStart="@dimen/margin_base"
+        android:layout_marginEnd="@dimen/margin_base"
+        android:background="@drawable/bg_edit_search">
+
+        <EditText
+            android:id="@+id/tvSearchLanguage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="9dp"
+            android:layout_toEndOf="@id/imSearch"
+            android:background="@null"
+            android:cursorVisible="true"
+            android:padding="@dimen/padding_base"
+            android:textColor="#445969"
+            android:textSize="16.0sp"
+            android:visibility="visible"
+            tools:ignore="Autofill,TextFields" />
+
+        <ImageView
+            android:id="@+id/imSearch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_small"
+            android:src="@drawable/ic_search"
+            android:clickable="true"
+            android:focusable="true"
+            android:background="?attr/selectableItemBackground"
+            tools:ignore="ContentDescription" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcv_list_language"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/margin_large"
+        android:layout_marginTop="@dimen/margin_base"
+        android:layout_marginEnd="@dimen/margin_large"
+        android:paddingBottom="@dimen/padding_base"
+        app:layout_constraintBottom_toTopOf="@id/tv_complete"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/rlSearchFilter">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+    <TextView
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rcv_list_language"
+        android:id="@+id/tv_complete"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_bottom_sheet_yellow"
+        android:fontFamily="@font/roboto_bold"
+        android:lineSpacingExtra="5dp"
+        android:padding="@dimen/padding_base"
+        android:text="@string/save"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="12dp"
+        android:textAlignment="center"
+        android:textColor="@color/color_black"
+        android:textSize="14sp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

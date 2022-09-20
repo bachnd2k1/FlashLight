@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">නැගෙනහිර</string>
+    <string name="DirEastNorthEast">නැගෙනහිර - උතුරු නැගෙනහිර</string>
+    <string name="DirEastSouthEast">නැගෙනහිර - ගිනිකොන</string>
+    <string name="DirNorth">උතුරු</string>
+    <string name="DirNorthEast">උතුරු නැගෙනහිර</string>
+    <string name="DirNorthNorthEast">උතුරු - උතුරු නැගෙනහිර</string>
+    <string name="DirNorthNorthWest">වයඹ - වයඹ</string>
+    <string name="DirNorthwest">බටහිර උතුර</string>
+    <string name="DirSouth">දකුණු</string>
+    <string name="DirSouthEast">නැගෙනහිර දකුණ</string>
+    <string name="DirSouthSouthEast">දකුණ - ගිනිකොන</string>
+    <string name="DirSouthSouthWest">දකුණ - නිරිතදිග</string>
+    <string name="DirSouthWest">බටහිර - දකුණ</string>
+    <string name="DirWest">බටහිර</string>
+    <string name="DirWestNorthWest">බටහිර - වයඹ</string>
+    <string name="DirWestSouthWest">බටහිර - නිරිතදිග</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"මුල් පිටුවට සංචාලනය කරන්න"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"ඉහළට සංචාලනය කරන්න"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"තවත් විකල්ප"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"කළා"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"සියල්ල බලන්න"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"යෙදුමක් තෝරන්න"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ක්‍රියාවිරහිතයි"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ක්‍රියාත්මකයි"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"මකන්න"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"සොයන්න..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"විමසුම හිස් කරන්න"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"සෙවුම් විමසුම"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"සෙවීම"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"විමසුම යොමු කරන්න"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"හඬ සෙවීම"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"සමග බෙදා ගන්න"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> සමඟ බෙදා ගන්න"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"හකුළන්න"</string>
+    <string name="app_name">ෆ්ලෑෂ් ලයිට්</string>
+    <string name="auto">පෙරනිමිය</string>
+    <string name="cancel_anytime">ඕනෑම වේලාවක අවලංගු කරන්න</string>
+    <string name="compass">මාලිමා ය</string>
+    <string name="data">දත්ත</string>
+    <string name="failed_camera">කැමරා සේවාවට සම්බන්ධ වීමට අපොහොසත් විය</string>
+    <string name="flashlight">ෆ්ලෑෂ් ලයිට්</string>
+    <string name="free">නිදහස්</string>
+    <string name="get">ලබා ගන්න</string>
+    <string name="help">උදව්</string>
+    <string name="home">ගෙදර</string>
+    <string name="language">භාෂාව</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">මාසික සැලැස්ම</string>
+    <string name="morse">මෝර්ස්</string>
+    <string name="most_popular">වඩාත්ම ජනප්රියයි</string>
+    <string name="not_support">ඔබගේ උපාංගය ෆ්ලෑෂ් සඳහා සහය නොදක්වයි!</string>
+    <string name="numberofDegree">දිශානතිය</string>
+    <string name="option">විකල්පය</string>
+    <string name="power_flashlight">පවර් ෆ්ලෑෂ්ලයිට්</string>
+    <string name="power_flashlight_premium">බල ෆ්ලෑෂ් ලයිට්</string>
+    <string name="premium">ප්රීමියම්</string>
+    <string name="privacy">පෞද්ගලිකත්වය</string>
+    <string name="rate">අනුපාතය</string>
+    <string name="restore_purchases">මිලදී ගැනීම් ප්රතිස්ථාපනය කරන්න</string>
+    <string name="save">සුරකින්න</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"සෙවීම"</string>
+    <string name="setting">සැකසුම</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="share">බෙදාගන්න</string>
+    <string name="share_message">මම %1$s භාවිතා කරමි. එය එතරම් ප්රයෝජනවත් සහ නොමිලේ! එය උත්සාහ කරන්න:% 2. S</string>
+    <string name="some_error">යම් දෝෂයක්</string>
+    <string name="sound_of_toggle">ටොගල් ශබ්දය</string>
+    <string name="start_3_day_trial">දින 3 ක නොමිලේ අත්හදා බැලීමක් සමඟ අදම ආරම්භ කරන්න</string>
+    <string name="status_bar">තත්ව තීරුව</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">අත්හදා බැලීම අවසන් වූ පසු, ස්වයංක්රීයව මසකට %1$s ට අලුත් වේ</string>
+    <string name="text_buy_year_content">අත්හදා බැලීම අවසන් වූ පසු, ස්වයංක්රීයව වාර්ෂිකව %1$s බිල්පත් අය කෙරේ</string>
+    <string name="text_compass">COMPASS</string>
+    <string name="text_compass_normal">මාලිමා ය</string>
+    <string name="text_continue">දිගටම කරගෙන යන්න</string>
+    <string name="text_flashlight">ෆ්ලෑෂ්ලයිට්</string>
+    <string name="text_flashlight_normal">ෆ්ලෑෂ් ලයිට්</string>
+    <string name="text_limited_time">සීමිත කාල දීමනාව %1$s පැය %2$s min %3$s තත්පර වලින් අවසන් වේ</string>
+    <string name="text_up_to_premium">වාරික අනුවාදයට උත්ශ්රේණි කරන්න</string>
+    <string name="text_watch_video">එය වරක් උත්සාහ කිරීමට වීඩියෝ දැන්වීම නරඹන්න</string>
+    <string name="trail_3_day">දින 3 ක නොමිලේ අත්හදා බැලීම</string>
+    <string name="version">පිටපත</string>
+    <string name="warning_request_permission">ෆ්ලෑෂ් ලයිට් භාවිතා කිරීමට ඔබ කැමරාවට ප්රවේශය යෙදිය යුතුය</string>
+    <string name="wifi">Wifi</string>
+    <string name="yearly_plan">වාර්ෂික සැලැස්ම</string>
+</resources>

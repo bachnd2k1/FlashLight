@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">Keleti</string>
+    <string name="DirEastNorthEast">Kelet - Északkelet</string>
+    <string name="DirEastSouthEast">Kelet - Délkelet</string>
+    <string name="DirNorth">Északi</string>
+    <string name="DirNorthEast">Északkelet</string>
+    <string name="DirNorthNorthEast">Észak - Északkelet</string>
+    <string name="DirNorthNorthWest">Észak - északnyugat</string>
+    <string name="DirNorthwest">Nyugat északra</string>
+    <string name="DirSouth">Déli</string>
+    <string name="DirSouthEast">Kelet-Dél</string>
+    <string name="DirSouthSouthEast">Dél - Délkelet</string>
+    <string name="DirSouthSouthWest">Dél - délnyugat</string>
+    <string name="DirSouthWest">Nyugat - dél</string>
+    <string name="DirWest">nyugat</string>
+    <string name="DirWestNorthWest">Nyugat - északnyugat</string>
+    <string name="DirWestSouthWest">Nyugat - Délnyugat</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Fel"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Az összes megtekintése"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Válasszon alkalmazást"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"KI"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"BE"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="app_name">Zseblámpa</string>
+    <string name="auto">Alapértelmezett</string>
+    <string name="cancel_anytime">Bármikor törölheti</string>
+    <string name="compass">Iránytű</string>
+    <string name="data">Adat</string>
+    <string name="failed_camera">Nem sikerült csatlakozni a Kamera szolgáltatáshoz</string>
+    <string name="flashlight">Zseblámpa</string>
+    <string name="free">Szabad</string>
+    <string name="get">KAP</string>
+    <string name="help">Segítség</string>
+    <string name="home">itthon</string>
+    <string name="language">Nyelv</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">HÓNAPOS TERV</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">LEGNEPSZERUBB</string>
+    <string name="not_support">Az Ön készüléke nem támogatja a Flash-t!</string>
+    <string name="numberofDegree">Orientáció</string>
+    <string name="option">választási lehetőség</string>
+    <string name="power_flashlight">Teljesítménylámpa</string>
+    <string name="power_flashlight_premium">Teljesítmény zseblámpa</string>
+    <string name="premium">PRÉMIUM</string>
+    <string name="privacy">Magánélet</string>
+    <string name="rate">Arány</string>
+    <string name="restore_purchases">Vásárlás visszaállítása</string>
+    <string name="save">Mentés</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Keresés"</string>
+    <string name="setting">Beállítás</string>
+    <string name="settings">Beállítások</string>
+    <string name="share">részesedik</string>
+    <string name="share_message"> %1$s felhasználom. Annyira segítőkész és INGYENES! Próbáld ki itt: %2$s</string>
+    <string name="some_error">Valami hiba</string>
+    <string name="sound_of_toggle">Váltás hangja</string>
+    <string name="start_3_day_trial">Kezdje ma 3 napos ingyenes próbaverzióval</string>
+    <string name="status_bar">Állapotsor</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="text_buy_month_content">A próba befejezése után az auto havonta %1$s sebességgel megújul</string>
+    <string name="text_buy_year_content">A próba befejezése után az auto megújítja éves %1$s számláját</string>
+    <string name="text_compass">IRÁNYTŰ</string>
+    <string name="text_compass_normal">Iránytű</string>
+    <string name="text_continue">FOLYTATNI</string>
+    <string name="text_flashlight">ZSEBLÁMPA</string>
+    <string name="text_flashlight_normal">Zseblámpa</string>
+    <string name="text_limited_time">A korlátozott ideig tartó ajánlat %1$s óra %2$s perc %3$s másodperc alatt ér véget</string>
+    <string name="text_up_to_premium">Frissítés prémium verzióra</string>
+    <string name="text_watch_video">Nézze meg a videohirdetést, hogy egyszer kipróbálja</string>
+    <string name="trail_3_day">3 napos ingyenes próbaverzió</string>
+    <string name="version">Változat</string>
+    <string name="warning_request_permission">A zseblámpa használatához engedélyeznie kell a kamerához való hozzáférést</string>
+    <string name="wifi">wifi</string>
+    <string name="yearly_plan">ÉVES TERV</string>
+</resources>

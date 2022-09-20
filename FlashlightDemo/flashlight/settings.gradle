@@ -1,0 +1,2 @@
+include ':app'//, ':library'//, ':20200210_flashlight_logger'
+rootProject.name='FlashLightD1'

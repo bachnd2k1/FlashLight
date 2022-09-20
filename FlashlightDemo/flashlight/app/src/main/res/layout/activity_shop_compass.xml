@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.flashlight.demo.activity.ShopFlashlightActivity">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gl1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.5" />
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/color_black"
+        app:layout_constraintBottom_toBottomOf="@id/gl1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imCloseShopCompass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="?attr/selectableItemBackground"
+        android:layout_margin="@dimen/margin_medium"
+        android:padding="@dimen/padding_small"
+        android:src="@drawable/ic_close_white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imCompassType"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/margin_base"
+        app:layout_constraintDimensionRatio="1:1"
+        android:src="@drawable/ic_bg_compass_1"
+        app:layout_constraintBottom_toBottomOf="@id/gl1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvNameCompassType"
+        tools:ignore="ContentDescription" />
+
+
+    <TextView
+        android:id="@+id/tvNameCompassType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_base"
+        android:fontFamily="@font/quicksand_bold"
+        android:text="@string/text_compass"
+        android:textColor="@color/color_white"
+        android:textSize="30sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvIdType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/quicksand_light"
+        android:textColor="@color/color_white"
+        android:textSize="60sp"
+        app:layout_constraintStart_toStartOf="@id/tvNameCompassType"
+        app:layout_constraintTop_toBottomOf="@id/tvNameCompassType"
+        tools:text="01" />
+
+    <TextView
+        android:id="@+id/tvFree"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_base"
+        android:background="@color/color_white"
+        android:fontFamily="@font/quicksand_bold"
+        android:paddingStart="@dimen/padding_small"
+        android:paddingTop="@dimen/padding_very_small"
+        android:paddingEnd="@dimen/padding_small"
+        android:paddingBottom="@dimen/padding_very_small"
+        android:textColor="@color/color_black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="@id/tvNameCompassType"
+        app:layout_constraintStart_toEndOf="@id/tvNameCompassType"
+        app:layout_constraintTop_toTopOf="@id/tvNameCompassType"
+        android:text="@string/free" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvShopCompass"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/color_white"
+        android:paddingTop="@dimen/padding_base"
+        app:layout_constraintBottom_toTopOf="@id/rlAdsParent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/gl1" />
+
+    <RelativeLayout
+        android:id="@+id/rlAdsParent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:orientation="vertical"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

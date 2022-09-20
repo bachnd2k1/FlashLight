@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="DirEast">အရှေ့</string>
+    <string name="DirEastNorthEast">အရှေ့ - အရှေ့မြောက်</string>
+    <string name="DirEastSouthEast">အရှေ့ - အရှေ့တောင်</string>
+    <string name="DirNorth">မြောက်ကိုရီးယား</string>
+    <string name="DirNorthEast">အရှေ့မြောက်ဘက်</string>
+    <string name="DirNorthNorthEast">မြောက် - အရှေ့မြောက်</string>
+    <string name="DirNorthNorthWest">မြောက် - အနောက်မြောက်</string>
+    <string name="DirNorthwest">အနောက်မြောက်</string>
+    <string name="DirSouth">တောင်</string>
+    <string name="DirSouthEast">အရှေ့တောင်</string>
+    <string name="DirSouthSouthEast">South - အရှေ့တောင်ဘက်</string>
+    <string name="DirSouthSouthWest">တောင် - အနောက်တောင်</string>
+    <string name="DirSouthWest">အနောက် - တောင်</string>
+    <string name="DirWest">အနောက်</string>
+    <string name="DirWestNorthWest">အနောက် - အနောက်မြောက်</string>
+    <string name="DirWestSouthWest">အနောက် - အနောက်တောင်ဘက်</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"မူလနေရာကို ပြန်သွားရန်"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"အပေါ်သို့ ရွှေ့ရန်"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"နောက်ထပ် ရွေးစရာများ"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"ပြီးပြီ"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"အားလုံး ကြည့်ရန်"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"အက်ပ်တစ်ခုကို ရွေးရန်"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ပိတ်ရန်"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ဖွင့်ရန်"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ရှာဖွေရန်…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ရှာဖွေမှုကို ဖယ်ရှားရန်"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ရှာဖွေရန် မေးခွန်း"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ရှာရန်"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"အသံဖြင့် ရှာရန်"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"နှင့် မျှဝေရန်"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ဖြင့် မျှဝေရန်"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"လျှော့ပြရန်"</string>
+    <string name="app_name">FlashLight</string>
+    <string name="auto">ပုံမှန်</string>
+    <string name="cancel_anytime">အချိန်မရွေးပယ်ဖျက်ပါ</string>
+    <string name="compass">သံလိုက်အိမ်မြှောင်</string>
+    <string name="data">ဒေတာ</string>
+    <string name="failed_camera">ကင်မရာဝန်ဆောင်မှုနှင့်ဆက်သွယ်မှုမအောင်မြင်ပါ</string>
+    <string name="flashlight">လက်နှိပ်ဓာတ်မီး</string>
+    <string name="free">အခမဲ့</string>
+    <string name="get">ရ</string>
+    <string name="help">ကူညီပါ</string>
+    <string name="home">နေအိမ်</string>
+    <string name="language">ဘာသာစကား</string>
+    <string name="loading_ads_dialog">Loading ad</string>
+    <string name="monthly_plan">လစဉ်အစီအစဉ်</string>
+    <string name="morse">Morse</string>
+    <string name="most_popular">လူကြိုက်အများဆုံး</string>
+    <string name="not_support">သင်၏ကိရိယာသည် Flash ကိုမထောက်ပံ့ပါ။</string>
+    <string name="numberofDegree">Orientation</string>
+    <string name="option">ရွေးချယ်စရာ</string>
+    <string name="power_flashlight">ပါဝါအလင်းအိမ်</string>
+    <string name="power_flashlight_premium">မီးဓာတ်မီး</string>
+    <string name="premium">ပရီမီယံ</string>
+    <string name="privacy">သီးသန့်တည်ရှိမှု</string>
+    <string name="rate">အဆင့်သတ်မှတ်ချက်</string>
+    <string name="restore_purchases">ဝယ်ယူမှု Restore</string>
+    <string name="save">သိမ်းရန်</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ရှာဖွေမှု"</string>
+    <string name="setting">ချိန်ညှိခြင်း</string>
+    <string name="settings">ချိန်ညှိချက်များ</string>
+    <string name="share">မျှဝေပါ</string>
+    <string name="share_message">ကျွန်ုပ် %1$s ကိုအသုံးပြုနေသည်။ ၎င်းသည်အလွန်အထောက်အကူဖြစ်စေပြီးအခမဲ့ဖြစ်သည်။  %2$s တွင်စမ်းကြည့်ပါ</string>
+    <string name="some_error">အမှားအချို့</string>
+    <string name="sound_of_toggle">Toggle ၏အသံ</string>
+    <string name="start_3_day_trial">၃ ရက်အခမဲ့စမ်းသပ်မှုဖြင့်ယနေ့စတင်ပါ</string>
+    <string name="status_bar">Status Bar</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"၉၉၉+"</string>
+    <string name="text_buy_month_content">ရုံးတင်စစ်ဆေးမှုပြီးဆုံးပြီးနောက်အလိုအလျောက်တစ်လလျှင် %1$s သို့သက်တမ်းတိုးသည်</string>
+    <string name="text_buy_year_content">ရုံးတင်စစ်ဆေးမှုပြီးဆုံးပြီးနောက်၊ အလိုအလျောက်သက်တမ်းတိုးသော %1$s တွင်နှစ်စဉ်ငွေကောက်ခံပါသည်</string>
+    <string name="text_compass">သံလိုက်အိမ်မြှောင်</string>
+    <string name="text_compass_normal">သံလိုက်အိမ်မြှောင်</string>
+    <string name="text_continue">ဆက်လက်</string>
+    <string name="text_flashlight">မီးအလင်းရောင်</string>
+    <string name="text_flashlight_normal">လက်နှိပ်ဓာတ်မီး</string>
+    <string name="text_limited_time">ကန့်သတ်ထားသောအချိန်ကမ်းလှမ်းချက်သည် %1$s နာရီ %2$s min %3$s secs ဖြင့်အဆုံးသတ်သည်</string>
+    <string name="text_up_to_premium">Premium ဗားရှင်းသို့အဆင့်မြှင့်တင်ပါ</string>
+    <string name="text_watch_video">တစ်ကြိမ်စမ်းကြည့်ရန်ဗွီဒီယိုကြော်ငြာကိုကြည့်ပါ</string>
+    <string name="trail_3_day">၃ ရက်အခမဲ့ရုံးတင်စစ်ဆေးခြင်း</string>
+    <string name="version">ဗားရှင်း</string>
+    <string name="warning_request_permission">Flashlight ကိုသုံးရန် Camera ကိုအသုံးပြုရန်လိုသည်</string>
+    <string name="wifi">ဝိုင်ဖိုင်</string>
+    <string name="yearly_plan">နှစ်ပတ်လည်အစီအစဉ်</string>
+</resources>

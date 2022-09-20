@@ -1,0 +1,122 @@
+com/flashlight/demo/api/request/FlashType.java
+ com.flashlight.demo.api.request.FlashType
+com/flashlight/demo/util/MyUtils.java
+ com.flashlight.demo.util.MyUtils
+com/flashlight/demo/adapter/item/FlashTypeItem.java
+ com.flashlight.demo.adapter.item.FlashTypeItem
+com/flashlight/demo/api/APIServiceWrapper.java
+ com.flashlight.demo.api.APIServiceWrapper
+ com.flashlight.demo.api.APIServiceWrapper$1
+com/flashlight/demo/activity/BaseActivity.java
+ com.flashlight.demo.activity.BaseActivity
+com/flashlight/demo/adapter/myadapter/MyAdapter.java
+ com.flashlight.demo.adapter.myadapter.MyAdapter
+com/flashlight/demo/dowloadmanager/DownloadMultiFile.java
+ com.flashlight.demo.dowloadmanager.DownloadMultiFile
+ com.flashlight.demo.dowloadmanager.DownloadMultiFile$PostDownload
+com/flashlight/demo/util/PreferencesHelper.java
+ com.flashlight.demo.util.PreferencesHelper
+com/flashlight/demo/handler/NotificationHandler.java
+ com.flashlight.demo.handler.NotificationHandler
+ com.flashlight.demo.handler.NotificationHandler$1
+com/flashlight/demo/adapter/ClickCompassItemListener.java
+ com.flashlight.demo.adapter.ClickCompassItemListener
+com/flashlight/demo/handler/FlashModeHandler.java
+ com.flashlight.demo.handler.FlashModeHandler
+ com.flashlight.demo.handler.FlashModeHandler$1
+com/flashlight/demo/fragment/HelpFragment.java
+ com.flashlight.demo.fragment.HelpFragment
+ com.flashlight.demo.fragment.HelpFragment$1
+com/flashlight/demo/fragment/CompassFragment.java
+ com.flashlight.demo.fragment.CompassFragment
+ com.flashlight.demo.fragment.CompassFragment$1
+com/flashlight/demo/dialog/ChangeLanguageDialogFragment.java
+ com.flashlight.demo.dialog.ChangeLanguageDialogFragment
+ com.flashlight.demo.dialog.ChangeLanguageDialogFragment$1
+com/flashlight/demo/adapter/itemdelegate/FlashlightDelegate.java
+ com.flashlight.demo.adapter.itemdelegate.FlashlightDelegate
+com/flashlight/demo/model/Flashlight.java
+ com.flashlight.demo.model.Flashlight
+com/flashlight/demo/util/PermissionUtil.java
+ com.flashlight.demo.util.PermissionUtil
+com/flashlight/demo/fragment/SettingFragment.java
+ com.flashlight.demo.fragment.SettingFragment
+com/flashlight/demo/activity/ShopFlashlightActivity.java
+ com.flashlight.demo.activity.ShopFlashlightActivity
+ com.flashlight.demo.activity.ShopFlashlightActivity$1
+com/flashlight/demo/dialog/LoadingDialog.java
+ com.flashlight.demo.dialog.LoadingDialog
+com/flashlight/demo/adapter/item/CompassTypeItem.java
+ com.flashlight.demo.adapter.item.CompassTypeItem
+com/flashlight/demo/dialog/ExitAppDialog.java
+ com.flashlight.demo.dialog.ExitAppDialog
+ com.flashlight.demo.dialog.ExitAppDialog$AppDialogListener
+com/flashlight/demo/activity/HomeActivity.java
+ com.flashlight.demo.activity.HomeActivity
+ com.flashlight.demo.activity.HomeActivity$1
+com/flashlight/demo/BaseApplication.java
+ com.flashlight.demo.BaseApplication
+ com.flashlight.demo.BaseApplication$1
+com/flashlight/demo/util/LocaleHelper.java
+ com.flashlight.demo.util.LocaleHelper
+com/flashlight/demo/util/Config.java
+ com.flashlight.demo.util.Config
+ com.flashlight.demo.util.Config$Event
+ com.flashlight.demo.util.Config$Notification
+ com.flashlight.demo.util.Config$RequestCode
+ com.flashlight.demo.util.Config$SharePrefferenceKey
+com/flashlight/demo/dowloadmanager/DownloadFile.java
+ com.flashlight.demo.dowloadmanager.DownloadFile
+ com.flashlight.demo.dowloadmanager.DownloadFile$PostDownload
+com/flashlight/demo/activity/ShopCompassActivity.java
+ com.flashlight.demo.activity.ShopCompassActivity
+com/flashlight/demo/dialog/BottomSheetOptionDialog.java
+ com.flashlight.demo.dialog.BottomSheetOptionDialog
+ com.flashlight.demo.dialog.BottomSheetOptionDialog$BottomSheetListener
+com/flashlight/demo/adapter/DisplayableItem.java
+ com.flashlight.demo.adapter.DisplayableItem
+com/flashlight/demo/adapter/myadapter/ChangeLanguageAdapter.java
+ com.flashlight.demo.adapter.myadapter.ChangeLanguageAdapter
+ com.flashlight.demo.adapter.myadapter.ChangeLanguageAdapter$1
+ com.flashlight.demo.adapter.myadapter.ChangeLanguageAdapter$Listener
+ com.flashlight.demo.adapter.myadapter.ChangeLanguageAdapter$ViewHolder
+ com.flashlight.demo.adapter.myadapter.ChangeLanguageAdapter$ViewHolder$1
+com/flashlight/demo/morse/TextToMorseCode.java
+ com.flashlight.demo.morse.TextToMorseCode
+com/flashlight/demo/morse/MorseCode.java
+ com.flashlight.demo.morse.MorseCode
+ com.flashlight.demo.morse.MorseCode$MORSE_CODE
+com/flashlight/demo/adapter/itemdelegate/CompassDelegate.java
+ com.flashlight.demo.adapter.itemdelegate.CompassDelegate
+com/flashlight/demo/util/MyConstants.java
+ com.flashlight.demo.util.MyConstants
+com/flashlight/demo/BuildConfig.java
+ com.flashlight.demo.BuildConfig
+com/flashlight/demo/activity/CompassActivity.java
+ com.flashlight.demo.activity.CompassActivity
+ com.flashlight.demo.activity.CompassActivity$1
+com/flashlight/demo/activity/SplashActivity.java
+ com.flashlight.demo.activity.SplashActivity
+com/flashlight/demo/util/NetworkUtil.java
+ com.flashlight.demo.util.NetworkUtil
+com/flashlight/demo/util/ToastUtil.java
+ com.flashlight.demo.util.ToastUtil
+com/flashlight/demo/dialog/BottomSheetFlashDialog.java
+ com.flashlight.demo.dialog.BottomSheetFlashDialog
+ com.flashlight.demo.dialog.BottomSheetFlashDialog$1
+com/flashlight/demo/service/NotificationIntentService.java
+ com.flashlight.demo.service.NotificationIntentService
+com/flashlight/demo/morse/SOSWithMorseCode.java
+ com.flashlight.demo.morse.SOSWithMorseCode
+ com.flashlight.demo.morse.SOSWithMorseCode$1
+ com.flashlight.demo.morse.SOSWithMorseCode$OnMorseCodeListener
+com/flashlight/demo/receiver/ConnectionReceiver.java
+ com.flashlight.demo.receiver.ConnectionReceiver
+com/flashlight/demo/fragment/MorseFragment.java
+ com.flashlight.demo.fragment.MorseFragment
+ com.flashlight.demo.fragment.MorseFragment$1
+ com.flashlight.demo.fragment.MorseFragment$2
+com/flashlight/demo/morse/FlashlightWithMorseCode.java
+ com.flashlight.demo.morse.FlashlightWithMorseCode
+ com.flashlight.demo.morse.FlashlightWithMorseCode$1
+ com.flashlight.demo.morse.FlashlightWithMorseCode$OnMorseCodeListener
